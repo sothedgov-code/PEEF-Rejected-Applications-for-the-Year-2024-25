@@ -37,10 +37,9 @@
     text-align: center;
   }
 
-  /* Colorful, clearly visible header row */
   thead tr {
     background: linear-gradient(to right, #512da8, #673ab7, #3f51b5);
-    color: #ffffff;       /* Ensures white text on dark background */
+    color: #ffffff;
     font-weight: bold;
   }
 
@@ -50,7 +49,6 @@
 
   tr:hover td { background: #e7f1ff; }
 
-  /* Suggestion box */
   #suggestions {
     position: absolute;
     width: 50%;
@@ -79,6 +77,7 @@
 <table id="dataTable">
   <thead>
     <tr>
+      <th>Serial No</th>
       <th>Name</th>
       <th>Father Name</th>
       <th>City</th>
@@ -97,8 +96,8 @@ fetch('data.csv')
   .then(text => {
     const lines = text.trim().split('\n');
     for (let i = 1; i < lines.length; i++) {
-      const [name, father, city, reason, form, subject] = lines[i].split(',');
-      data.push({ name, father, city, reason, form, subject });
+      const [serial, name, father, city, reason, form, subject] = lines[i].split(',');
+      data.push({ serial, name, father, city, reason, form, subject });
     }
   });
 
@@ -112,7 +111,7 @@ searchInput.addEventListener('input', function() {
   suggestions.innerHTML = '';
   if (!query) { suggestions.style.display = 'none'; return; }
 
-  const matches = data.filter(item => item.name.toLowerCase().includes(query));
+  const matches = data.filter(item => item.name && item.name.toLowerCase().includes(query));
   if (matches.length === 0) { suggestions.style.display = 'none'; return; }
 
   matches.slice(0, 8).forEach(item => {
@@ -129,6 +128,7 @@ function showRecord(item) {
   searchInput.value = item.name;
   tableBody.innerHTML = `
     <tr>
+      <td>${item.serial}</td>
       <td>${item.name}</td>
       <td>${item.father}</td>
       <td>${item.city}</td>
@@ -139,7 +139,6 @@ function showRecord(item) {
   table.style.display = 'table';
 }
 
-// Copy & screenshot restrictions
 document.addEventListener('keydown', function(e) {
   if (e.key === 'PrintScreen') {
     alert('Screenshots are disabled on this page.');
