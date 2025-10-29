@@ -195,12 +195,12 @@
     }
 
     function resetAutoHide() {
-      clearTimeout(hideTimer);
-      hideTimer = setTimeout(() => {
-        allRows.forEach(row => row.style.display = 'none');
-        searchBox.value = '';
-      }, 10000);
-    }
+  clearTimeout(hideTimer);
+  hideTimer = setTimeout(() => {
+    allRows.forEach(row => row.style.display = 'none');
+    searchBox.value = '';
+  }, 60000); // increased from 10s to 60s
+}
 
     document.addEventListener('click', e => {
       if (e.target !== searchBox && e.target.parentNode !== suggestions)
