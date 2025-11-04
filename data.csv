@@ -166,7 +166,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 165,Shah Fahad,Shah Rozam Khan,Batagram,2022 student & Private,949,HSSC
 166,Muhammad Siraj,Nafeed Ullah,Bannu,SSC in progress,462,SSC
 167,Ihsan Ullah,Shah Muhammad Khan,D.I Khan,Private Domicile & Affidavit deficiency,1090,SSC
-168,Malaika Tariq,Tariq Shah,Charsadda,Private Ex-Student of 2023 & Compart etc,913,HSSC
+168,Malaika Tariq,Tariq Shah,Charsadda,Private Ex Student of 2023 & Compart etc,913,HSSC
 169,Hanifa Bibi,Safdar Zaman,Swabi,Improper Affidavit,883,HSSC
 170,Nimra Bibi,Hamza Khan,Swabi,Private Improper Affidavit,829,HSSC
 171,Hamim Ullah,Muhammad Tamaz,Batagram,Deficiency of Photo Form-B Private & DMC not visible,911,HSSC
@@ -183,26 +183,26 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 182,Rafi Ullah,Muhammad Ismail,Shangla,HSSC in progress & improper Affidavit,403,HSSC
 183,Muhammad Salman,Samil Khan,Charsadda,No Domicile & private,812,HSSC
 184,Khanzeb,Jehan Zeb,Peshawar,HSSC in progress & improper Affidavit,869,SSC
-185,Hafiz Muhammad Ibrahim,Sher Afzal,Mohmand,Private & No Affidavit,966,HSSC
-186,Mian Zubair Ahmad,Mian Mula Jan,Peshawar,Private No Affidavit Domicile CNIC,970,SSC
+185,Hafiz Muhammad Ibrahim,Sher Afzal,Mohmand,Private &No Affidavit,966,HSSC
+186,Mian Zubair Ahmad,Mian Mula Jan,Peshawar,PrivateNo Affidavit Domicile CNIC,970,SSC
 187,Noman Khan,Sher Bahadar,Buner,Improver Improper Affidavit Private,960,HSSC
-188,Ihsan ul Haq,Bacha Zada,Buner,Private No Domicile No Affidavit,750,HSSC
+188,Ihsan ul Haq,Bacha Zada,Buner,Private No DomicileNo Affidavit,750,HSSC
 189,Habeeb Ullah,Muhammad Ali,Shangla,Improper Affidavit No Domicile CNIC,953,HSSC
-190,Sajad Ali,Mian Badshah,Swat,Ex-student 2023 & compart,990,HSSC
+190,Sajad Ali,Mian Badshah,Swat,Ex Student 2023 & compart,990,HSSC
 191,Jawad Latif,Gul Latif,Buner,Improper Affidavit No Domicile CNIC,1022,HSSC
 192,Ishaq,Gul Muhammad,Kohat,No Affidavit Domicile Form B,971,HSSC
 193,Muhammad Riaz,Muzaffar Khan,Kohat,Deficiency of Affidavit Domicile Form B,844,SSC
 194,Awais Ramzan ,Abdul Raziq,Kohat,Private Deficiency of Affidavit Form B,854,SSC
 195,Muhammad Bilal,Abdul Rasheed,Kohat,No Affidavit & Domicile deficiency,902,SSC
 196,Muhammad Muneer,Guli Rehman,Kohat,No Affidavit & Private,898,SSC
-197,Safi Ullah,Abdullah Khan,Kohat,Private No Affidavit Domicile,848,SSC
+197,Safi Ullah,Abdullah Khan,Kohat,PrivateNo Affidavit Domicile,848,SSC
 198,Tayyab,Manzoor Ahmad,Kohat,Private Deficiency of Affidavit & Domicile,875,SSC
 199,Zeenas,Asad Danial,Kohat,Deficiency of Affidavit Domicile & Special Quota documents,770,SSC
 200,Muhammad Kashif,Firdous Khan,Kohat,Private Student Marks is Lower than 60% other enclosure shortcomings,689,SSC
 201,Muhammad Asim,Mir Ahmad Khan,Kohat,No enclosure,856,SSC
-202,Muhammad Rehan,Muhammad Abid,Kohat,Private & No Affidavit Domicile etc,858,SSC
+202,Muhammad Rehan,Muhammad Abid,Kohat,Private &No Affidavit Domicile etc,858,SSC
 203,Zulqarnain,Hameed Ullah Khan,Kohat,Deficiency Affidavit Domicile Special Quota documents,925,SSC
-204,Waseeb Ullah,Jan Muhammad,Kohat,Private Student No Affidavit CNIC Domicile etc,938,SSC
+204,Waseeb Ullah,Jan Muhammad,Kohat,Private StudentNo Affidavit CNIC Domicile etc,938,SSC
 205,Muhammad Kamran,Shahid ur Rehman,Kohat,Private Student & Affidavit etc deficiency,1014,SSC
 206,Muhammad Hashim ,Shahid ur Rehman,Kohat,Private Student and Affidavit etc deficiency,1030,SSC
 207,Muhammad Waleed,Sajjad Ahmad,Kohat,Photo & Affidavit deficiency and Private Student,883,SSC
@@ -370,7 +370,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 369,Laiba Rashid,Abdul Rashid Khan,Bannu,Irrelevant Affidavit,815,HSSC
 370,Maham Bibi,Muhammad Jan,Bannu,Irrelevant Affidavit,728,HSSC
 371,Muzaheroon Bibi,Muhamad Iqbal Khan,Bannu,2023, Irrelevant Attestation,674,HSSC
-372,Noreen Bibi,Gohar Zad Khan,Bannu,Student Marks are Lower than 60% and No Affidavit,707,HSSC
+372,Noreen Bibi,Gohar Zad Khan,Bannu,Student Marks are Lower than 60% andNo Affidavit,707,HSSC
 373,Karishma Bibi,Rambail Khan,Bannu,No Affidavit,825,HSSC
 374,Memona Ajab,Ajab Khan,Bannu,No Affidavit,858,HSSC
 375,Sumira Akhtar,Akhtar Nawaz Khan,Bannu,No Photo Affidavit etc,840,HSSC
@@ -400,22 +400,22 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 399,Raishmina,Muhammad Amin,D.I Khan,Ex student and Compart,760,HSSC
 400,Raqeeba,Maveez Khan,D.I Khan,Ex student of 2022,727,HSSC
 401,Nazia Bibi,Gulbaz Khan,D.I Khan,Private Student,833,HSSC
-402,Sumaid Ahmad,Asghar Khan,Swabi,2023 Compart and Private student and No Affidavit,953,HSSC
+402,Sumaid Ahmad,Asghar Khan,Swabi,2023 Compart and Private student andNo Affidavit,953,HSSC
 403,Sharija Bibi,Hikmat Shah,D.I Khan,Private,846,HSSC
-404,Sara Bibi,Hikmat Shah,D.I Khan,Ex and Private 2024 and No Affidavit,Photo,873,HSSC
+404,Sara Bibi,Hikmat Shah,D.I Khan,Ex and Private 2024 andNo Affidavit,Photo,873,HSSC
 405,Ikram Ullah,Shah Zad Gul,Bajaur,2023 student,907,Matric
 406,Samin Uddin,Bahauddin,Mardan,No Domicile CNIC etc,990,Matric
 407,Anwar ul Haq,Hayat Muhammad,Bajaur,2023 student,906,HSSC
 408,Hafsa Inayat,Laiqat Ali,Bajaur,Private student and Affidavit etc are not attacheded,812,Matric
 409,Inayat Ullah,Faiz Wali Khan,Bajaur,Affidavit not attested,1088,Matric
-410,Ijaz ul Haq,Alam Zeb,Bajaur,Ex-student and Compart,949,HSSC
+410,Ijaz ul Haq,Alam Zeb,Bajaur,Ex Student and Compart,949,HSSC
 411,Farhad Khan,Abdul Wahab,Bajaur,Private 2023 Student Compart Part-I HSSC,406,HSSC
 412,Sajjad Khan,Khan Badshah,Bajaur,Private,885,HSSC
 413,Shamsia Bibi,Shabir Hussain,Upper Kurrum,Private,1051,HSSC
 414,Rabia Basri,Jan Muhammad,Bajaur,Marks are Lower than 60%,707,Matric
 415,Anis Khan,Faqir Muhammad,Bajaur,No Domicile CNIC and Unattested Affidavit and Private Student,1046,Matric
 416,Khubaib Khan,Faqir Muhammad,Bajaur,Private student and Affidavit is unattested and Domicile etc deficiency,1070,Matric
-417,Nabila Faqeer,Faqir Muhammad,Bajaur,Ex-student 2023 compart and No CNIC,976,Matric
+417,Nabila Faqeer,Faqir Muhammad,Bajaur,Ex Student 2023 compart and No CNIC,976,Matric
 418,Ayesha Azmat,Azmat Aziz,D.I Khan,Improper Affidavit,948,Matric
 419,Hadiqa Mehmood,Tariq Mehmood,Lakki Marwat,No DMC Domicile CNIC etc,792,SSC/HSSC
 420,Sajjad ur Rehman,Fazal Karim,Chitral,Irrelevant Affidavit and No CNIC (Father),951,HSSC
@@ -453,10 +453,10 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 452,Mudassir Khan,Painda Khan,Mardan,Deficiency of Affidavit Domicile CNIC and HSSC in Progress,385,Intermediate
 453,Haroon Rasheed,Wahid Shah,Charsadda,No Affidavit,855,Matric
 454,Azmat Wali Khan,Sher Muhammad,Shangla,Improper Affidavit,1009,Matric
-455,Muhammad Talha,Fazal Wahid,Mardan,2022 student and No Affidavit,922,Intermediate
+455,Muhammad Talha,Fazal Wahid,Mardan,2022 student andNo Affidavit,922,Intermediate
 456,Zunaira Fayaz,Muhammad Fayaz,Mardan,Irrelevant Attestation,969,Matric
-457,Muhammad Adil,Bakht Bahadur,Swabi,2023 student and no Affidavit,805,Matric
-458,Muhammad Salar,Muhammad Shah,Mardan,HSSC in Progress and No Affidavit,392,Intermediate
+457,Muhammad Adil,Bakht Bahadur,Swabi,2023 student andNo Affidavit,805,Matric
+458,Muhammad Salar,Muhammad Shah,Mardan,HSSC in Progress andNo Affidavit,392,Intermediate
 459,Nida Bibi,Jehan Zeb,Mardan,Irrelevant Attestation,925,Matric
 460,Kaleem Ullah Khan,Amir Nawaz Khan,Lakki Marwat,No CNIC or Form B,915,Matric
 461,Muhammad Shoaib,Dilbar Khan,kohat,No Affidavit,860,Matric
@@ -478,7 +478,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 477,Shela Khan,Noor Ullah Khan,Malakand,Improper Attestation,751,FSc
 478,Usra Bibi,Muhammad Yousaf,Mardan,2023 student and SSC or HSSC Certificates are doubtful,874 (HSSC),SSC/HSSC
 479,Muhammad Tahir,Abdul Hai,Mansehra,Ex Student of 2024 and Improper Affidavit,987,FSc
-480,Noel Ameeq,Nadeem Naseer Uddin,Peshawar,2021 student Compart and No Affidavit,758,Fsc
+480,Noel Ameeq,Nadeem Naseer Uddin,Peshawar,2021 student Compart andNo Affidavit,758,Fsc
 481,Madeeha Zafar,Zafar Ali,Mardan,Improper Attestation,913,FSc
 482,Tanzeera Idrees,Muhammad Idrees Khan,Mardan,No Domicile Form B and Improper Attestation,842,FSc
 483,Shazma Khan,Moraish Khan,Mardan,No Form B and Improper Attestation,728,FSc
@@ -486,7 +486,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 485,Kashmala Noor,Shan Ali,Mardan,No Form-B CNIC and Improper Attestation,903,Fsc
 486,Tanzeela,Zakir Ullah,Mardan,2021 student and Marks are Lower than 60%,696,FSc
 487,Mashal Khan,Muhammad Irshad Khan,Mardan,Private,1064,FSc
-488,Laiba Noor,Sabir Khan,Swabi,Ex-Student of 2023 Private and Compart,960,Intermediate
+488,Laiba Noor,Sabir Khan,Swabi,Ex Student of 2023 Private and Compart,960,Intermediate
 489,Rehana Shehzadi,Khan Sharaf,Mardan,Improper Attestation,924,Intermediate
 490,Tasmia Ilham,Bashir Ullah,Chitral,No Affidavit and HSSC in progress,475,HSSC
 491,Shahana Nasir,Muhammad Nasir Shah,Chitral,No Affidavit and HSSC in progress,468,HSSC
@@ -499,8 +499,8 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 498,Javeria Bibi,Anwar Shah,Bannu,No Affidavit,876,Matric
 499,Sabiha Bibi,Ajmal Khan,Bannu,No Affidavit,856,Matric
 500,Rehmat Bibi,Bahadar Khan,Bannu,No Affidavit,888,Matric
-501,Anisha ,Ihsan Ullah,Bannu,Private and no Affidavit,882,SSC
-502,Iman Ayaz,Wali Ayaz Khan,Bannu,Private and no Affidavit,860,SSC
+501,Anisha ,Ihsan Ullah,Bannu,Private andNo Affidavit,882,SSC
+502,Iman Ayaz,Wali Ayaz Khan,Bannu,Private andNo Affidavit,860,SSC
 503,Sidra Raqeeb,Raqibaz Khan,Bannu,No Affidavit,883,SSC
 504,Manahil Iqbal,Syed Iqbal,Bannu,No Affidavit,969,SSC
 505,Marwa Anfal,Hidayat ullah Khan,Bannu,No Affidavit Form-B etc,947,SSC
@@ -536,8 +536,8 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 535,Fahad,Ayaz,Bannu,2023, Improper Affidavit,848,SSC
 536,Muhammad Jawad,Muhammad Din,Bajaur,2023,private,883,FSC
 537,Ansa Wali,Mir Wali Khan,Tank,Incomplete Application,1026,FSC
-538,Sapna  ,Muhammad Ishaq,Mardan,2022 Private Student and no Affidavit,861,FSC
-539,Gracy Singh,Sawinder kumar,Buner,2022 student and No Affidavit,887,FSC
+538,Sapna  ,Muhammad Ishaq,Mardan,2022 Private Student andNo Affidavit,861,FSC
+539,Gracy Singh,Sawinder kumar,Buner,2022 student andNo Affidavit,887,FSC
 540,Sikandar Khan ,Aslam Khan,Peshawar,2021 Private Student,956,FSC
 541,Aiman pervez,Shah Pervez,Charsadda,Private and Affidavit domicile not attached,1002,SSC
 542,Muhammad Huzaifa ,Muhabbat hussain shah,Haripur,improper Affidavit and no domicile form B,1006,SSC
@@ -566,7 +566,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 565,Assan Ali,Rafi Uddin,Mardan,Private and Irrelevant Attestation,1005,FSc
 566,Saad Ullah,Sajad Muhammad,Mardan,Private,768,HSSC
 567,Samad Khan,Khubaz Khan,Bannu,Improper Affidavit,825,HSSC
-568,Ishtiaq Ahmad,Khalid Khan,Shangla,2021 student and No Affidavit,866,HSSC
+568,Ishtiaq Ahmad,Khalid Khan,Shangla,2021 student andNo Affidavit,866,HSSC
 569,Tajjala Khan,Khurshid Ali,Shangla,Improper Affidavit,1043,HSSC
 570,Sanila Bibi,Muhammad Raheem,Shangla,No Affidavit,924,HSSC
 571,Hijab Saeed,Saeed Ullah Shah,Lakki Marwat,Private,950,HSSC
@@ -600,147 +600,147 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 599,Rafi Ullah,Hameed Ullah,Lakki Marwat,HSSC in Progress,459,HSSC
 600,Tariq Aziz,Muhammad Aziz Ullah,Peshawar,2023 Student,881,FSc
 601,Ahmad Ullah Khan,Rahmat Ullah Khan,Lakki Marwat,Incomplete Application (just application and Affidavit),810,SSC
-602,Ishaq Ahmad,Hameed Gul,Charsadda,Private, 2023, No Affidavit,1058,SSC
-603,Shayan Ali Shah,Nazur Shah,Lower Chitral,No Domicile, CNIC F/S,1050,SSC
+602,Ishaq Ahmad,Hameed Gul,Charsadda,Private,2023,No Affidavit,1058,SSC
+603,Shayan Ali Shah,Nazur Shah,Lower Chitral,No Domicile CNICs of F/S,1050,SSC
 604,Abdullah,Wasif Khan,Battagram,No Affidavit,888,SSC
 605,Muhammad Haris,Gul Sher Ali Khan,Bannu,Improper Affidavit,1034/1400,DAE
 606,Sajawal Feroz,Feroz Khan,Lakki Marwat,Private,970,SSC
 607,Muhammad Hussain,Rahim Ullah Khan,Lakki Marwat,No Photo,1014,SSC
 608,Maseeh Ullah,Bakhti Rehman,Dir Upper,HSSC in Progress,407,HSSC
-609,Farhat Naz Akhtar,Mir Alam Khan,Lakki Marwat,Ex-Student of 2023,825,HSSC
-610,Muhammad Fawad,Abdul Rasheed Khan,Lakki Marwat,Ex-Student,956,HSSC
+609,Farhat Naz Akhtar,Mir Alam Khan,Lakki Marwat,Ex Student of 2023,825,HSSC
+610,Muhammad Fawad,Abdul Rasheed Khan,Lakki Marwat,Ex Student,956,HSSC
 611,Ikhtisham Khan,Taj Ali Khan,Lakki Marwat,Private,957,SSC
-612,Mustajab Ahmad,Amir Nasrullah Khan,Lakki Marwat,Ex-Student of 2021, Improver,924,Intermediate
-613,Shah Faisal,Misal Khan,Swabi,2023 student, No enclosure except DMC,954,SSC
-614,Misbah Ullah Khan,Asfandyar Khan,Charsadda,private, 2023 studedent ,1065,SSC
-615,Arsalan Khan,Intihab Alam, Swabi,No Enclosures, 2023 student,800,SSC
-616,Muhammad Mustafa,Muhammad Ishaq,Bannu,Ex-Student 2023,721,SSC
-617,Muhammad Adil Jan,Shah Khalid,Charsadda,2023 student, Irrelevant Affidavit,1043,SSC
+612,Mustajab Ahmad,Amir Nasrullah Khan,Lakki Marwat,Ex Student of 2021 and Improver,924,Intermediate
+613,Shah Faisal,Misal Khan,Swabi,2023 student and No enclosure except DMC,954,SSC
+614,Misbah Ullah Khan,Asfandyar Khan,Charsadda,Private Student of 2023,1065,SSC
+615,Arsalan Khan,Intihab Alam, Swabi,No Enclosures and 2023 student,800,SSC
+616,Muhammad Mustafa,Muhammad Ishaq,Bannu,Ex Student of 2023,721,SSC
+617,Muhammad Adil Jan,Shah Khalid,Charsadda,2023 student and Irrelevant Affidavit,1043,SSC
 618,Muhammad Riaz,Ghazi Marjan,Lakki Marwat,Private,901,SSC
 619,Muskan Gul,Muzaffar,Nowshera,Improper Attestation,967,HSSC
-620,Iram Anwar,Anwar Sadat,Chitral,Private of 2022, No Affidavit,798,FSc
+620,Iram Anwar,Anwar Sadat,Chitral,Private of 2022 andNo Affidavit,798,FSc
 621,Imran Khan,Muqarrab Khan,Lakki Marwat,2023 student,894,SSC
 622,Arif Ullah,Ghulam Muhammad,Lakki Marwat,Irrelevant Attestation,934,SSC
-623,Muhammad Saad ,Hazrat Jamal,Swabi,Ex-Student, No Annexture except DMC,899,SSC
-624,Hashmat Ali ,Liaqat Ali ,Malakand,No Affidavit,995,SSC
-625,Sadaf Ali,Miskeen Shah,Haripur,2023 student, Private, Lower 60%,716,HSSC
-626,Nazim Ullah,Misal Khan,Swabi,No Annexture except DMC, 2022,798,SSC
+623,Muhammad Saad,Hazrat Jamal,Swabi,Ex Student and No Annexture except DMC,899,SSC
+624,Hashmat Ali,Liaqat Ali,Malakand,No Affidavit,995,SSC
+625,Sadaf Ali,Miskeen Shah,Haripur,2023 student Private and Marks are Lower than 60%,716,HSSC
+626,Nazim Ullah,Misal Khan,Swabi,No Annexture except DMC and 2022 Student,798,SSC
 627,Zarnishal Said,Syed Zafran Ali Shah,Bannu,No Affidavit,870,HSSC
-628,Aziz ur Rehman,Shah Zada,Lakki Marwat,Private, Improper Attestation,956,SSC
+628,Aziz ur Rehman,Shah Zada,Lakki Marwat,Private and Improper Attestation,956,SSC
 629,Salma Aman,Aman ullah khan ,Lakki Marwat,Improper Attestation,872,FSc
 630,Muhammad Sameer Manzoor,Manzoor Hussain,D.I Khan,No Affidavit,805,SSC
 631,Muhammad Saeed,Razi Uddin,Swabi,No Affidavit,931,HSSC
-632,Huzaifa,Daulat Noor,N. Waziristan,2021 student, Lower 60%,684,SSC
-633,Muhammad Haris,Muhammad Ishaq,Lakki Marwat,No CNIC F/S,854,HSSC
-634,Muhammad Saqib,Muhabat Khan,Lakki Marwat,Ex-student of 2023, Improper Attestation,891,HSSC
-635,Sajad Khan,Muhammad Akram Khan,Lakki Marwat,Lower 60%,616,HSSC
-636,Nadia Khan,Niaz Muhammad,Nowshera,CNIC father, Domicile, No Affidavit,992,SSC
-637,Sahar Bibi,Barakat Shah,Mardan,No Affidavit, CNIC (S/F),941,HSSC
-638,Maria,Bahr Ullah,Charsadda,2021 student, Improper Attestation,721,SSC
+632,Huzaifa,Daulat Noor,N. Waziristan,2021 Student and Marks are Lower than 60%,684,SSC
+633,Muhammad Haris,Muhammad Ishaq,Lakki Marwat,No CNICs of F/S,854,HSSC
+634,Muhammad Saqib,Muhabat Khan,Lakki Marwat,Ex Student of 2023 and Improper Attestation,891,HSSC
+635,Sajad Khan,Muhammad Akram Khan,Lakki Marwat,Marks are Lower than 60%,616,HSSC
+636,Nadia Khan,Niaz Muhammad,Nowshera,Deficiency of  father CNIC Domicile andNo Affidavit,992,SSC
+637,Sahar Bibi,Barakat Shah,Mardan,No Affidavit CNIC S/F etc,941,HSSC
+638,Maria,Bahr Ullah,Charsadda,2021 student and Improper Attestation,721,SSC
 639,Adeena Usman,Usman Ali,Mardan,2022 student,1008,HSSC
-640,Samia Rehman,Saif ur Rehman,Lakki Marwat,Improper Attestation, No Domicile, CNIC (F),908,SSC
+640,Samia Rehman,Saif ur Rehman,Lakki Marwat,Improper Attestation No Domicile Father CNIC etc,908,SSC
 641,Zeeshan,Amir Khan,Lakki Marwat,No Affidavit,831,SSC
-642,Qanita Taskeen,Muhammad Amir Sabri,Peshawar,2022 student, Improper Affidavit,949,HSSC
-643,Abuzar Khan,Fazal Noor,Mardan,No Affidavit, CNIC (F),809,hSSC
+642,Qanita Taskeen,Muhammad Amir Sabri,Peshawar,2022 student and Improper Affidavit,949,HSSC
+643,Abuzar Khan,Fazal Noor,Mardan,No Affidavit Father CNIC,809,hSSC
 644,Salah Uddin,Mir Ghulam,D.I Khan,No Affidavit,842,HSSC
 645,Imdad Ullah,Naimat Ullah,D.I Khan,No Affidavit,806,HSSC
 646,Zakir Ullah,Shakir Ullah,D.I Khan,No Affidavit,897,HSSC
-647,Rabia Bibi,Falak Sher,D.I Khan,No Affidavit, 2023 student,856,HSSC
-648,Sania Saeed,Akbar Saeed,D.I Khan,No Affidavit, 2023 student,736,HSSC
-649,Maryam Bibi,Ghazi Mar Jan,D.I Khan,2023 student, no Affidavit,790,HSSC
-650,Samrina Bibi,Muhammad Nasim,D.I Khan,2023 student, no Affidavit,772,HSSC
-651,Muhammad Sufyan,Muhammad Ayub Khan,D.I Khan,No Affidavit, CNIC (F),1028,HSSC
-652,Muhammad Adan Khan,Shahid Saleem,D.I Khan,No Affidavit, 2022 Student, compart,858,HSSC
-653,Muhammad Daniyal,Abdul Rauf,D.I Khan,No Affidavit, CNIC (F),949,SSC
-654,Muhammad Yaseen,Salim Khan,Dir Lower,No CNIC (F),1032,SSC 
-655,Abdul Majeed,Hadees,Kohistan,Private, No Affidavit,971,HSSC
-656,Sana Dawood,Dawood Khan,Swat,No Affidavit, Photo, CNIC (F),856,HSSC
-657,Tahira Bibi,Abdul Qadoos,Dir Lower,No Affidavit, Domicile, CNIC (F),932,SSC
-658,Tanzeela Bibi,Abdul Qadoos,Dir Lower,No Affidavit, Domicile, CNIC (F),1001,SSC
-659,Zainub Bibi,Hafiz Abdul Ghani (late),D.I Khan,No Affidavit, CNIC (F), Improper Attestation,972,SSC
-660,Afefa Bibi,Gul Muhammad ,D.I Khan,No Affidavit, Private, No CNIC (F),998,SSC
-661,Arif Ullah,Jehan Zeb,Bajaur,Private, No Affidavit,1011,SSC
-662,Sidra,Hukam Zada Khan,Lakki Marwat,CNIC S/F, Domicile,868,HSSC
-663,Asma Saleem,Muhammad Saleem ,D.I Khan,No Affidavit, HSSC in progress,393,HSSC
-664,Husnain,Ijaz Khan,Bannu,Lower 60%,673,SSC
-665,Sheriyar Khan,Zarif Khan,Lakki Marwat,No CNIC (F/S), Domicile,824,HSSC
-666,Shah Zeb Khan,Zaheer Khan,Charsadda,No Affidavit, CNIC,1081,SSC
+647,Rabia Bibi,Falak Sher,D.I Khan,No Affidavit and 2023 student,856,HSSC
+648,Sania Saeed,Akbar Saeed,D.I Khan,No Affidavit and 2023 student,736,HSSC
+649,Maryam Bibi,Ghazi Mar Jan,D.I Khan,2023 student and No Affidavit,790,HSSC
+650,Samrina Bibi,Muhammad Nasim,D.I Khan,2023 student and No Affidavit,772,HSSC
+651,Muhammad Sufyan,Muhammad Ayub Khan,D.I Khan,No Affidavit CNIC etc ,1028,HSSC
+652,Muhammad Adan Khan,Shahid Saleem,D.I Khan,No Affidavit 2022 Student and compart,858,HSSC
+653,Muhammad Daniyal,Abdul Rauf,D.I Khan,Deficiency of Affidavit and Father CNIC,949,SSC
+654,Muhammad Yaseen,Salim Khan,Dir Lower,No Father CNIC,1032,SSC 
+655,Abdul Majeed,Hadees,Kohistan,Private and No Affidavit,971,HSSC
+656,Sana Dawood,Dawood Khan,Swat,No Affidavit Photo and Father CNIC etc,856,HSSC
+657,Tahira Bibi,Abdul Qadoos,Dir Lower,No Affidavit Domicile and Father CNIC etc,932,SSC
+658,Tanzeela Bibi,Abdul Qadoos,Dir Lower,No Affidavit Domicile and Father CNIC etc,1001,SSC
+659,Zainub Bibi,Hafiz Abdul Ghani (late),D.I Khan,No Affidavit Father CNIC and Improper Attestation,972,SSC
+660,Afefa Bibi,Gul Muhammad ,D.I Khan,No Affidavit Private Student and No Father CNIC etc,998,SSC
+661,Arif Ullah,Jehan Zeb,Bajaur,Private and No Affidavit,1011,SSC
+662,Sidra,Hukam Zada Khan,Lakki Marwat,No Student/father CNICs and Domicile,868,HSSC
+663,Asma Saleem,Muhammad Saleem,D.I Khan,No Affidavit and HSSC in progress,393,HSSC
+664,Husnain,Ijaz Khan,Bannu,Marks are Lower than 60%,673,SSC
+665,Sheriyar Khan,Zarif Khan,Lakki Marwat,No CNIC (F/S) and Domicile,824,HSSC
+666,Shah Zeb Khan,Zaheer Khan,Charsadda,No Affidavit and CNIC,1081,SSC
 667,Zuhaib Khan,Jehanzeb Khan,Bannu,2023 student,947,SSC
-668,Daniyal Jamshed,Jamshed Khan,Charsadda,No enclosure except simple Affidavit,--,--
-669,Hasan Raza,Muhammad Raza Khan,Bannu,2023 student, improper Affidavit, Private,971,SSC
+668,Daniyal Jamshed,Jamshed Khan,Charsadda,No enclosure except simple Affidavit,0,0
+669,Hasan Raza,Muhammad Raza Khan,Bannu,2023 student improper Affidavit and Private student,971,SSC
 670,Muhammad Kifayat Ullah Khan,Muhammad Safi Ullah Khan,Bannu,HSSC in Progress,516,HSSC
 671,Afaq Ahmad,Alam Rehman,Bannu,2023 student,938,SSC
-672,Zakir Ullah,Gul Muhammad,kohat,Private, Improper Affidavit,940,HSSC
+672,Zakir Ullah,Gul Muhammad,kohat,Private Student and Improper Affidavit,940,HSSC
 673,Rumais,Shafiq ur Rehman,Buner,Improper Attestation,868,SSC
-674,Javed Khan,Samandar Khan,Lakki Marwat,Improper Affidavit, HSSC in Progress,524,HSSC
-675,Haroon Rasheed,Abdul Rasheed,Swabi,No Affidavit, CNIC (F), Domicile,1027,SSC
-676,Hijab Gul ,Muhammad Mujeeb Ullah Khan,Lakki Marwat,No CNIC (F), Irrelevant Affidavit, 2023 student,825,SSC
-677,Muhammad Awais Khan,Hashim Khan,Lakki Marwat,No Domicile, CNIC F,943,HSSC
-678,Muhammad Wiqar,Asif Nadeem,Bannu,Private, Improper Affidavit,891,SSC
-679,Mehmood,Nasrullah,Tank,No Photo, Domicile, Form-B, DMC,546,SSC/HSSC
-680,Ijaz Ahmad,Amir Nawas Khan,Lakki Marwat,No Domicile, CNIC (F/S),977,HSSC
-681,Tariq Hasham,Ameer Zada,Dir Lower,Ex-Student of 2024, Compart, no Affidavit,955,HSSC
-682,Muhammad Hafeez Ullah,Raheem Ullah,Lower Chitral,No Affidavit, Domicile, CNIC (F/S),1084,SSC
-683,Syed Muhammad Bilal,Syed Zahir Shah,Charsadda,No Affidavit, Domicile, No Form-B,1067,SSC
-684,Muhammad Junaid Khan,Raheem Ullah Khan,Bannu,No Form-B, 2023 student,809,SSC
+674,Javed Khan,Samandar Khan,Lakki Marwat,Improper Affidavit and HSSC in Progress,524,HSSC
+675,Haroon Rasheed,Abdul Rasheed,Swabi,No Affidavit Father CNIC and Domicile etc,1027,SSC
+676,Hijab Gul ,Muhammad Mujeeb Ullah Khan,Lakki Marwat,No Father CNIC  2023 student and Irrelevant Affidavit,825,SSC
+677,Muhammad Awais Khan,Hashim Khan,Lakki Marwat,No Domicile and Father CNIC,943,HSSC
+678,Muhammad Wiqar,Asif Nadeem,Bannu,Private,Improper Affidavit,891,SSC
+679,Mehmood,Nasrullah,Tank,No Photo Domicile Form B and DMC,546,SSC/HSSC
+680,Ijaz Ahmad,Amir Nawas Khan,Lakki Marwat,No Domicile and Student/father CNICs,977,HSSC
+681,Tariq Hasham,Ameer Zada,Dir Lower,Ex Student of 2024 Compart and No Affidavit,955,HSSC
+682,Muhammad Hafeez Ullah,Raheem Ullah,Lower Chitral,No Affidavit Domicile CNICs,1084,SSC
+683,Syed Muhammad Bilal,Syed Zahir Shah,Charsadda,No Affidavit Domicile and Form B etc,1067,SSC
+684,Muhammad Junaid Khan,Raheem Ullah Khan,Bannu,No Form B and 2023 student,809,SSC
 685,Hassan Khan,Jehangir Khan,Bannu,2023 student,894,SSC
-686,Uzair Ullah,Zahir Khan,Charsadda,No Affidavit, CNIC (F/S), Domicile,1016,SSC
-687,Munza,Arshad Ali,Mardan,No Domicile, Improper Affidavit,798,Intermediate
-688,Siyam Bibi,Habib ur Rehman,Bannu,No enclsoure except application + Photo, 2022 student,617,SSC
-689,Irshad Ullah,Saif ur Rehman ,Lakki Marwat,No CNIC (F), Improper Attestation,895,HSSC
+686,Uzair Ullah,Zahir Khan,Charsadda,No Affidavit CNICs and Domicile etc,1016,SSC
+687,Munza,Arshad Ali,Mardan,No Domicile and Improper Affidavit,798,Intermediate
+688,Siyam Bibi,Habib ur Rehman,Bannu,No enclsoure except application + Photo and 2022 student,617,SSC
+689,Irshad Ullah,Saif ur Rehman ,Lakki Marwat,No Father CNIC and Improper Attestation,895,HSSC
 690,Muhammad Shahzeb ,Asmat Ullah,Bannu,Improper Attestation,826,HSSC
 691,Muhammad Zaid Ali,Hasan Gul,Charsadda,Improper Attestation,958,HSSC
 692,Muhammad Muhsin Shah,Ibrahim Shah,Lakki Marwat,2023 student,877,HSSC
-693,Syed Mehruban Ali Shah Bukhari,Syed Fayaz Ali Shah Bukhari,Nowshera,2023 student, Improper Affidavit, No Domicile, CNIC (F/S),987,SSC
+693,Syed Mehruban Ali Shah Bukhari,Syed Fayaz Ali Shah Bukhari,Nowshera,2023 student Improper Affidavit No Domicile CNICs,987,SSC
 694,Sana Gul (girl),Faqeer Gul,Malakand,Improper Affidavit,892,SSC
 695,Kamran Alam,Muhammad Tufair,Shangla,Private,1036,SSC
-696,Muhammad Waseem,Shahrafat Ali (late),Shangla,Irrelevant Affidavit, No DMC,1003,SSC
+696,Muhammad Waseem,Shahrafat Ali (late),Shangla,Irrelevant Affidavit and No DMC,1003,SSC
 697,Muhammad Saqaf,Hamid Ullah,Bannu,2023 Student,997,SSC
-698,Sadiq Ahmad,Sher Wali Khan,Buner,Improper Affidavit, ,1034,SSC
+698,Sadiq Ahmad,Sher Wali Khan,Buner,Improper Affidavit,1034,SSC
 699,Faizan Ahmad ,Naseer Gul,Malakand,Improper Attestation,1077,SSC
-700,Zia ur Rehman,Fazli Rehman,Lakki Marwat,Lower 60%,719,SSC
-701,Ishtiaq Ahmad,Khalid Khan,Shangla,Received in July, 2025 as after due date. 2021 student,866,HSSC
+700,Zia ur Rehman,Fazli Rehman,Lakki Marwat,Marks are Lower than 60%,719,SSC
+701,Ishtiaq Ahmad,Khalid Khan,Shangla,Received in July 2025 as after due date and 2021 student,866,HSSC
 702,Muhammad Idrees,Bakht Jehan,Nowshera,Improper Affidavit,846,Intermediate
 703,Saeed Ullah,Muntazir,Buner,2023 student,807,Intermediate
-704,Tanveer Ahmad,Shabir Ahmad,Lakki Marwat,CNIC (F), Improper Attestation,740,Matric
-705,Faisal Inam,Inam Ullah Khan,Lakki Marwat,Deficiency of Domicile, CNIC (F/S),862,HSSC
+704,Tanveer Ahmad,Shabir Ahmad,Lakki Marwat,No Father CNIC and Improper Attestation,740,Matric
+705,Faisal Inam,Inam Ullah Khan,Lakki Marwat,Deficiency of Domicile and CNICs,862,HSSC
 706,Absufyan,Bdaulat Noor,Bannu,Domicile,840,Matric
-707,Madiha Gul,Gul Bahadar Khan,Dir Upper,Affidavit, , Domicile, CNIC,791,FSc
+707,Madiha Gul,Gul Bahadar Khan,Dir Upper,Affidavit Domicile and CNIC Deficiency,791,FSc
 708,Asif Nawaz,Muhammad Nawaz,Lakki Marwat,2020 student,767,HSSC
-709,Shah Hussain,Muhammad Ameen,Battagram,CNIC (F/S),937,Matric
-710,Sadat Jan,Subhani Gul,Dir Lower,Improper Affidavit, CNIC (F/S),899,HSSC
+709,Shah Hussain,Muhammad Ameen,Battagram,No CNICs,937,Matric
+710,Sadat Jan,Subhani Gul,Dir Lower,Improper Affidavit No CNICs,899,HSSC
 711,Asif Ullah Khan,Balqaiz Khan,Bannu,2023 student,768,HSSC
-712,Muhammad Ahmed,Muhammad Ismail,Lakki Marwat,Domicile, CNIC Father and Student,1046,Matric
-713,Muhammad Danish,Nowroz Khan,Lakki Marwat,Improper Affidavit, No Form-B,942,HSSC
+712,Muhammad Ahmed,Muhammad Ismail,Lakki Marwat,No Domicile  Father and Student CNICs,1046,Matric
+713,Muhammad Danish,Nowroz Khan,Lakki Marwat,Improper Affidavit and No Form B,942,HSSC
 714,Waleed Khan,Bahtiar Ali Khan,Bannu,2023 student,773,HSSC
-715, Sher Azam,Ejaz Ahmad,Mansehra,Domicile, CNIC Father and Student, Affidavit,939,Matric
-716,Shafaqat Ullah,Baid Ullah Jan,Lakki Marwat,only application + DMC,794,Matric
+715, Sher Azam,Ejaz Ahmad,Mansehra,No Domicile Father and Student CNIC and Affidavit,939,Matric
+716,Shafaqat Ullah,Baid Ullah Jan,Lakki Marwat,Only application and DMC,794,Matric
 717,Tufail Ahmad,Nadeem Ahmad,Charsadda,Private,896,HSSC
-718,Amin Ullah,Mir Akbar,Swabi,Improper Affidavit, CNIC (F/S) Domicile etc.,896,Matric
+718,Amin Ullah,Mir Akbar,Swabi,Improper Affidavit No CNICs and Domicile etc,896,Matric
 719,Mudasir Ahmad,Nadeem Ahmad,Charsadda,HSSC in Progress,417,HSSC
 720,Waqas Khan,Abdul Qayum,Buner,No Affidavit,906,Intermediate
-721,Fajar Bibi,Ayaz,Peshawar,only application + Affidavit,905,HSSC
-722,Muhammad Hanif Qureshi,Muhammad Qasim Qureshi,Buner,Affidavit, Domicile, CNIC (F/S),913,Intermediate
+721,Fajar Bibi,Ayaz,Peshawar,Only application and Affidavit,905,HSSC
+722,Muhammad Hanif Qureshi,Muhammad Qasim Qureshi,Buner,No Affidavit Domicile and CNICs,913,Intermediate
 723,Muhammad Saad Hadi,Abdul Hadi,Swat,No Affidavit,794,Intermediate
-724,Muhammad Furqan,Gul Rehman,Lakki Marwat,Lower 60%,702,Matric
-725,Hazrat Ali,Umar Zaman ,Charsadda,DMC, Affidavit, CNIC,776,Matric
+724,Muhammad Furqan,Gul Rehman,Lakki Marwat,Marks are Lower than 60%,702,Matric
+725,Hazrat Ali,Umar Zaman ,Charsadda,No DMC Affidavit CNIC etc,776,Matric
 726,Azman Khan,Muhammad Nawab,Shangla,Improper Affidavit,969,Matric
-727,Muhammad Zubair,Habib Ullah Khan,Lakki Marwat,Private, Domicile, CNIC (S/F),1031,Matric
-728,Umar Nawaz,Muhammad Nawaz,Nowshera,2022 student, private, Improper Affidavit,995,Intermediate
+727,Muhammad Zubair,Habib Ullah Khan,Lakki Marwat,Private student No Domicile CNIC etc,1031,Matric
+728,Umar Nawaz,Muhammad Nawaz,Nowshera,2022 student private and Improper Affidavit,995,Intermediate
 729,Sawaira Aman,Aman Ullah,Mardan,Improper Affidavit,990,Matric
 730,Maryam Siddiq,Muhammad Siddiq,Peshawar,Improper Affidavit,977,HSSC
-731,Robina Bibi,Ghulam Yaseen,D.I Khan,only application form,1000,Matric
+731,Robina Bibi,Ghulam Yaseen,D.I Khan,Only application form,1000,Matric
 732,Muhammad Sherpao,Almar Gul ,D.I Khan,No Affidavit,964,Matric
 733,Muhammad Aqil,Faqir Gul,Malakand,Improper Affidavit,854,Matric
-734,Hikmat Ali Khan,Bakhtiar Ali Khan,Bannu,SSC Private 2023, HSSC DMC missing,415,HSSC
-735,Nasrullah Khan,Noor Ghani Khan,Bannu,Ex-Student of 2023, Improver,901,Matric
-736,Muhammad Yousaf,Ajmal Jani,Swat,No CNIC (F/S), Domicile,747,Matric
-737,Malaika Rehman,Mujeeb ur Rehman,Nowshera,no Affidavit,840,Intermediate
+734,Hikmat Ali Khan,Bakhtiar Ali Khan,Bannu,SSC Private 2023 and HSSC DMC missing,415,HSSC
+735,Nasrullah Khan,Noor Ghani Khan,Bannu,Ex Student of 2023 and Improver,901,Matric
+736,Muhammad Yousaf,Ajmal Jani,Swat,No CNICs Domicile etc,747,Matric
+737,Malaika Rehman,Mujeeb ur Rehman,Nowshera,No Affidavit,840,Intermediate
 738,Alishba Gul,Muhammad Gul,Lakki Marwat,Irrelevant Attestation,887,Matric
 739,Syed Mudassir Ali Shah,Syed Munawar Ali Shah,Shangla,Improver, Improper Affidavit,1035,Matric
 740,Hanif Ullah,Fazal Wadood,Shangla,Improper Affidavit,974,Matric
 741,Asim Ullah,Aurang Zeb,Shangla,Intermediate in Progress,382,Intermediate
-742,Usman Amjad,Amjad Hussain,Mansehra,Private 2023, No Affidavit,839,HSSC
+742,Usman Amjad,Amjad Hussain,Mansehra,Private 2023,No Affidavit,839,HSSC
 743,Sameer Ali Shah,Mirza Nazar,Upper Chitral,No CNIC, Domicile,829,Matric
 744,Arsalan Hasnain,Syed Sarwar Ahmad Shah,Chitral,No CNIC, Domicile,946,HSSC
 745,Muhammad Ilyas,Anayat Ullah,Shangla,Improper Affidavit,916,Matric
@@ -750,11 +750,11 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 749,Ayesha,Asmat Ullah,Tank,Improper Affidavit, HSSC DMC Deficiency,764,HSSC
 750,Alia Asmat,Asmat Ullah,Tank,2023 student, Improper Affidavit,858,HSSC
 751,Laiba Farid,Farid ullah,Charsadda,no Affidavit,1092,Matric
-752,Mahbub Ali ,Jehan Alam,swat,2023 student, no Affidavit,749,F.A
+752,Mahbub Ali ,Jehan Alam,swat,2023 student,No Affidavit,749,F.A
 753,Qurat ul Ain ,Shahid Ali,Mardan,application and Affidavit not attested properly,909,FSC
 754,farooq ahmad,gul Zaman,Buner,no Affidavit no CNIC,854,FSC
 755,Neelam Khan,Fazal ur Rehman,D.I Khan,no father NIC/No Affidavit,983,SSC
-756,Asad Ullah,habib ullah,Buner,2023 student, Compart, No Affidavit, Domicile etc,843,FSC
+756,Asad Ullah,habib ullah,Buner,2023 student, Compart,No Affidavit, Domicile etc,843,FSC
 757,Muhammad ismail ,Taza khan,Shangla,no Affidavit,1008,fsc
 758,Usman khan,Shahid Ahmad,Shangla,2023 student,785,FSC
 759,Faiza,Ghulam Yahya Khan,Haripur,no Affidavit, domicile, form-B CNIC,817,FA
@@ -770,16 +770,16 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 769,Aqsa bibi,Malik Aman,Mansehra,domicile, Affidavit, form-B, CNIC,854,SSC
 770,Sana BiBi,Muhammad Ashraf,Mansehra,2023 student,792,SSC
 771,Naima Bibi,Ghulam Mohayyud-din,D.I Khan,no father NIC/No Affidavit,869,HSSC
-772,Munazza Bibi,Wali ur Rehman,Mansehra,no father CNIC/ no Affidavit,936,SSC
-773,Awais khan,Gulab Khan ,Mardan,HSSC in progress, no Affidavit, domicile, form-B,808,ssc
+772,Munazza Bibi,Wali ur Rehman,Mansehra,no father CNIC/No Affidavit,936,SSC
+773,Awais khan,Gulab Khan ,Mardan,HSSC in progress,No Affidavit, domicile, form-B,808,ssc
 774,Muhammad Aman,Hamdullah shah,Lakki Marwat,no DMC, domicile, Affidavit,353,SSc
 775,Mubashra Rauf,gul Rauf,Lakki Marwat,no domicile, , irrelevatn Affidavit ,907,SSC
-776,Sheraz Khan,Dilawar Khan,Lakki Marwat,no domicile, no Affidavit, 2021 Private ,900,SSC
+776,Sheraz Khan,Dilawar Khan,Lakki Marwat,no domicile,No Affidavit, 2021 Private ,900,SSC
 777,Omais iqbal khan,iqbal khan ,Dir Lower,2023 students,759,SSC
 778,Salman aman,Aman ullah khan ,lakki Marwat,2021 student no domicile, CNIC, Affidavit,848,SSC
-779,Ansa Bibi ,Ghulam Mohayyud-din,D.I Khan,Ex-Student of 2024, compart, CNIC (F/S), no Affidavit,796,HSSC
-780,Omair Iqbal Khan,Iqbal Ahmad, Dir Lower,2023 student, no Affidavit,746,HSSC
-781,Sudais Iqbal Khan,Iqbal Ahmad,Dir Lower,Private 2023, No Affidavit,807,HSSC
+779,Ansa Bibi ,Ghulam Mohayyud-din,D.I Khan,Ex Student of 2024, compart, CNIC (F/S),No Affidavit,796,HSSC
+780,Omair Iqbal Khan,Iqbal Ahmad, Dir Lower,2023 student,No Affidavit,746,HSSC
+781,Sudais Iqbal Khan,Iqbal Ahmad,Dir Lower,Private 2023,No Affidavit,807,HSSC
 782,Aalyan Naseem,Muhammad Naseem,Mansehra,Affidavit, CNIC,725,Matric
 783,Zaka Ullah,Muhammad Awaz,Bannu,2023 student,924,Matric
 784,Mehran Khan,Abdul Muhammad,Charsadda,CNIC, Domicile, Affidavit,1079,Matric
@@ -809,8 +809,8 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 808,Shafiur Rehman,Abdur Rehman,Lakki Marwat,Out of Merit,901,SSc
 809,Haseena khan ,Muqaddar Khan,Charsadda,Out of Merit no NIC, domicile,884,SSC
 810,Furqan Ahmad ,Umar Jamal,Karak,Private Student of 2023,884,HSSC
-811,Shafi Ullah,Shah Mahmood,Bajaur,Ex-student of 2023, Compart,973,HSSC
-812,Sulaiman Khan,Asal Khan,Bajaur,Ex-student of 2023, Compart,860,HSSC
+811,Shafi Ullah,Shah Mahmood,Bajaur,Ex Student of 2023, Compart,973,HSSC
+812,Sulaiman Khan,Asal Khan,Bajaur,Ex Student of 2023, Compart,860,HSSC
 813,Shah Hussain,Khan Bahadur,Bajaur,BS in Progress,455/3.44 GPA,BS Zoology
 814,Asad Ullah,Shahid Ali,Bajaur,BS in Progress,3.42 GPA,BS Zoology
 815,Rahman Ud Din,Muhammad Nabi,Bajaur,BS in Progress,3.30 GPA,BS CS
@@ -847,7 +847,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 846,Shah Alam,Rahim Shah,Mohmand,BS in Progress,3.68 GPA,BS in Chemistry
 847,Ubaid Ullah,Sher Bahadar,Mohmand,BS in Progress,3.13 GPA,BS in Physics
 848,Zabih Ullah,Sher Ahmad,Bajaur,BS in Progress,3.61 GPA,BS in Chemistry
-849,Zia ur Rahman,Manoon,Mohmand,2022 ex-student, compart,863,Matric
+849,Zia ur Rahman,Manoon,Mohmand,2022 Ex Student, compart,863,Matric
 850,Bacha Rahman,Waheed Khan,Bajaur,BS in Progress,3.19 GPA,BS in Islamic Studies
 851,sajad ullah ,khushi Muhammad,Bajaur,BS in Progress,2.8,BS in Islamic Studies
 852,Muhammad Hussain,Fateh Rahman,Bajaur,BS in Progress,3.82 GPA,BS Zoology
@@ -861,16 +861,16 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 860,Muhammad Usman,Taj Muhammad,Bajaur,BS in Progress,3.19 GPA,BS English
 861,Muhammad Zahir,Muhammad Umar,Bajaur,BS in Progress,3.09 GPA,BS Political Science
 862,Rooh Ullah,Zahoor Khan,Bajaur,BS in Progress,3.13 GPA,BS Zoology
-863,Salman Khan,Hanif Ullah,Bajaur,Ex-student of 2023, Compart,854,HSSC
+863,Salman Khan,Hanif Ullah,Bajaur,Ex Student of 2023, Compart,854,HSSC
 864,Zakir Ullah,Gulab Jan,Bajaur,BS in Progress,3.26 GPA,BS Zoology
-865,Hamid Ullah,Noor Ghulam,Bajaur,Ex-Student, Improver, Compart,975,HSSC
+865,Hamid Ullah,Noor Ghulam,Bajaur,Ex Student, Improver, Compart,975,HSSC
 866,Khan Tasil,Sher Amin Khan,Bajaur,BS in Progress,3.23 GPA,BS English
 867,Shoaib ur Rahman,Faiz ur Rahman,Mohmand,DMC Deficiency,761,HSSC
 868,Waqar Ahmad,Lal Faqir Khan,Mohmand,Incomplete Application,907,HSSC
 869,Shahzir Khan,Nawab Noor,Bajaur,Incomplete Application,937,HSSC
-870,Aftab Nawaz,Sher Nawaz,Peshawar,Ex-Student, Compart,920,HSSC
+870,Aftab Nawaz,Sher Nawaz,Peshawar,Ex Student, Compart,920,HSSC
 871,Rizwan Ullah,Saeed ur Rahman,Bajaur,Out of Merit,954,Matric
-872,Faheem Ullah,Said Muhammad,Bajaur,Ex-Student, Compart,959,HSSC
+872,Faheem Ullah,Said Muhammad,Bajaur,Ex Student, Compart,959,HSSC
 873,Yasir Arafat,Alamgir Khan,Bajaur,Did not take further admission,962,Intermediate
 874,Hilal Salar,Ahmad Jan,Bajaur,Did not take further admission,980,HSSC
 875,Haleema Badshah,Badshah ud Din,Bajaur,Out of Merit,988,Matric
@@ -981,7 +981,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 980,Adil Muhammad,Said Muhammad,Swabi,Improper Affidavit,1107,Matric
 981,Abdullah,Khurshid,Swat,Improper Attestation,853,Matric
 982,Muhammad Shoaib,Raqib Khan,Lakki Marwat,2023 Student,929,Matric
-983,Muskan Gul,Salim Gul,Lakki Marwat,Lower 60%, Affidavit not Attested,717,Matric
+983,Muskan Gul,Salim Gul,Lakki Marwat,Marks are Lower than 60%, Affidavit not Attested,717,Matric
 984,Haseena Alam,Ameer Alam,Lakki Marwat,Improper Attestation,924,Matric
 985,Muhammad Usman,Sahib Gul,Malakand,Private Student,1069,Matric
 986,Alisha Akhtar,Ghulam Hur,Lakki Marwat,No Attestation,885,HSSC
@@ -990,7 +990,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 989,Muneeba Bibi,Muhammad Farooq,Swat,2022 student, Improper Affidavit,896,Intermediate
 990,Aftab Ali,Sana Gul,Buner,CNICs, Affidavit Deficiency,950,Intermediate
 991,Asma Hassan,Muhammad Hassan,Mardan,2021, Private,Compart, Improper Affidavit,908,Intermediate
-992,Rukhsana,Haji Amir Ghulam,Lakki Marwat,2023, Ex-Student, Improver,889,HSSC
+992,Rukhsana,Haji Amir Ghulam,Lakki Marwat,2023, Ex Student, Improver,889,HSSC
 993,Nimra,Ghlam Mohiu Din,Lakki Marwat,DMC, Affidavit Deficiency,1030,Matric
 994,Nasar Hayat,Umar Hayat,Swat,Private,878,Matric
 995,Irshad Ullah,Said Rasool,Lakki Marwat,Irrelevant Attestation,961,Matric
@@ -1000,7 +1000,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 999,Raqim Ullah,Khan Munir,Bajaur,Out of Merit,870,HSSC
 1000,Mehak Rebqa,Waris Masih Khokhar,Mohmand,Out of Merit,747,HSSC
 1001,Saima Noureen,Ahmad Baseer,Karak,Ex-Private, Compart,1006,HSSC
-1002,Sami ur Rehman,Hazrat Ali,Dir Upper,Ex-Student, Compart, Improper Attestation,898,HSSC
+1002,Sami ur Rehman,Hazrat Ali,Dir Upper,Ex Student, Compart, Improper Attestation,898,HSSC
 1003,Laiba Muthahir Shah,Muthahir Shah,Charsadda,No Affidavit,903,HSSC
 1004,Aneela Rehmat Ullah,Rehmat Ullah,Charsadda,Private 2023,814,HSSC
 1005,Wareesha Ali,Liaqat Ali,Charsadda,Private,1055,HSSC
@@ -1011,9 +1011,9 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1010,Nimra Qusain,Inam Ullah,Lakki Marwat,Improper Attestation,988,Matric
 1011,Zainul Arifeen,Muhammad Fazal Khan,Chitral,Ex-Private of 2023, Compart, Affidavit,735,HSSC
 1012,Anas Farhan Sardar,Abdus Samad Khan,Lakki Marwat,Private,1047,Matric
-1013,Shahla Ijaz,Ijaz Adil,Peshawar,2021, Lower 60%,586,HSSC
-1014,Rameen Mukhtiar,Mukhtiar Ahmad Khalil,Peshawar,Private, Lower 60%,679,HSSC
-1015,Nayab Muneer,Muhammad Muneer,Peshawar,2023, Lower 60%,628,HSSC
+1013,Shahla Ijaz,Ijaz Adil,Peshawar,2021, Marks are Lower than 60%,586,HSSC
+1014,Rameen Mukhtiar,Mukhtiar Ahmad Khalil,Peshawar,Private, Marks are Lower than 60%,679,HSSC
+1015,Nayab Muneer,Muhammad Muneer,Peshawar,2023, Marks are Lower than 60%,628,HSSC
 1016,Misal Merry,Rehmat Masih,Nowshera,2021 student, Improper Affidavit,802,Intermediate
 1017,Sawera Khalil,Khalil ur Rehman,Karak,2019 Private, Improper Affidavit,920,HSSC
 1018,Sadiq Shah,Rahman Gul,Peshawar,No Affidavit,1053,Matric
@@ -1029,7 +1029,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1028,Faheem Abbas,Liaqat Ali,Kurrum,Private,1033,Matric
 1029,Syed Qammar Abbas,Sayed Tahir Hussain,Kurrum,Private,981,Matric
 1030,Muhammad Nauman,Zaman Khan,Peshawar,Domicile, CNIC, Affidavit not filled/attested,916,HSSC
-1031,Abdullah,Muhammad Muzafar Said,Dir Upper,Ex Student of 2023, Compart, No Affidavit,886,Matric
+1031,Abdullah,Muhammad Muzafar Said,Dir Upper,Ex Student of 2023, Compart,No Affidavit,886,Matric
 1032,Sajjad Khan,Imdad Khan,Mardan,Intermediate in Progress,393,Intermediate
 1033,Nimra Bibi,Mehar Rahman,Charsadda,2023 Student,934,HSSC
 1034,Fatima Wahab,Abdul Wahab Chishti,Lakki Marwat,CNIC, Domicile Deficiency,967,Matric
@@ -1038,8 +1038,8 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1037,Muhammad Huzaifa Khan,Maqsood Ali,Nowshera,2021 Private,742,Intermediate
 1038,Asghar Khan Jadoon,Muhammad Arif,Swabi,HSSC DMC Doubtful (Matric 2023 and HSSC 2024), Improper Affidavit,799,Intermediate
 1039,Babar Iqbal,Muhammad Iqbal,Mardan,Private,844,Intermediate
-1040,mustafa Ali Qureshi,Mazhar Ali Qureshi,Peshawar,Private, No Affidavit,1009,HSSC
-1041,Aayan Ali,Jan Wali,Peshawar,Private, No Affidavit,966,HSSC
+1040,mustafa Ali Qureshi,Mazhar Ali Qureshi,Peshawar,Private,No Affidavit,1009,HSSC
+1041,Aayan Ali,Jan Wali,Peshawar,Private,No Affidavit,966,HSSC
 1042,Muzamil Khan,Muhammad Sohail,Bannu,2023 Student,911,HSSC
 1043,Muhammad Ihsan Ullah,Dawar Khan,Bajaur,Out of Merit,799,HSSC
 1044,Muhammad Hamza Afridi,Khayat Syed Khan Afridi,Peshawar,Out of Merit,747,HSSC
@@ -1051,10 +1051,10 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1050,Tanzeela,Mehraban Shah,Charsadda,Improper Affidavit,881,HSSC
 1051,Muqaddas BIBI,Tehsin Ullah,Tank,Incomplete documents,908,Matric
 1052,Shujat Ahmad,Islam ud Din,Chitral,no Affidavit attached,1068,SSC
-1053,Uzma Zaheer,Zaheer-U-Din,Charsadda,Student 2021, lower 60%,480,HSSC
+1053,Uzma Zaheer,Zaheer-U-Din,Charsadda,Student 2021, Marks are Lower than 60%,480,HSSC
 1054,Wisal Gul,Ali Rehman,Karak,Improper Affidavit,895,SSC
-1055,Sulait Ahmad,Samar Gul,Lakki Marwat,Lower 60%,699,HSSC
-1056,Riyan Qureshi,Rais Khan,Bannu,Private, No Affidavit,949,SSc
+1055,Sulait Ahmad,Samar Gul,Lakki Marwat,Marks are Lower than 60%,699,HSSC
+1056,Riyan Qureshi,Rais Khan,Bannu,Private,No Affidavit,949,SSc
 1057,Bushra Bibi,Sikandar khan,Malakand,Just Application form,758,FSC
 1058,Muhammad Shehzad,Muhammad Qaiser,D.I Khan,Improper Affidavit, CNIC/from-B ,1023,SSC
 1059,M. Abdullah ,Asim Khan,Swat,Improper Affidavit,885,SSC
@@ -1063,12 +1063,12 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1062,Muhammad Fawad,Sher Amir,Lakki Marwat,private,746,HSSC
 1063,Muhammad Uzair,Muhamamd Anas,swabi,no form-B, domicile ,726,SSC
 1064,Nizar  Muhammad,Faiz Muhammad ,Swabi,2022, private, improper  Affidavit,745,SSc
-1065,Ibrahim Khan,Chaman Khan,Swabi,Private, lower 60%, No Affidavit,715,SSc
+1065,Ibrahim Khan,Chaman Khan,Swabi,Private, Marks are Lower than 60%,No Affidavit,715,SSc
 1066,Abu Huraira,Said Ul Abrar,Swabi,No Domicile, form B, NIC,936,SSC
 1067,Kibria Khan  ,Amriz Khan,Swabi,Private student,914,SSc
 1068,Hammad Elahi,Sharif Khan ,Chitral,no Affidavit,1076,SSC
 1069,Warda Gul,Alamgir Khan,Tank,No DMC, Domcil, CNIC, form B,832,SSC
-1070,Ifhan Ullah,Aman Ullah,Chitral,Private, No Affidavit,1050,Matric
+1070,Ifhan Ullah,Aman Ullah,Chitral,Private,No Affidavit,1050,Matric
 1071,Adeeb ur Rehman,Muhammad Shaukat,Chitral,No Affidavit,1018,Matric
 1072,Haseena Bibi,Samin ul Haq,Swabi,No CNIC/Domicile,908,Intermediate
 1073,Maimoona Jehan,Shah Jahan,Swabi,No Domicile,887,Intermediate
@@ -1082,7 +1082,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1081,Nasir Ahmad,Fazal Gul,Swabi,Private Student,901,Matric
 1082,Usman Ali,Wahid Gul,Swat,Improper Affidavit,899,Intermediate
 1083,Awais Hakim,Abdul Hakim,Buner,Private,855,Matric
-1084,Maham Ahmad,Zulfiqar Ahmad,Kohat,Private-2022, No Affidavit, Higher Studies in progress,982,HSSC
+1084,Maham Ahmad,Zulfiqar Ahmad,Kohat,Private-2022,No Affidavit, Higher Studies in progress,982,HSSC
 1085,Muhammad Ayub,Zafar Ali Khan,Bannu,Only DMC, Application, and Death Certificate, Private,910,Matric
 1086,Shumaila,Shah Niaz Khan,Bannu,2020 Student, Affidavit not filled properly, BS in Progress/no not attacheded,749,HSSC
 1087,Tayyeba Bibi,Abdur Rehman,Swabi,No Domicile, CNIC,789,Intermediate
@@ -1090,7 +1090,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1089,Adeela Hassan,Hassan Ali Khan,Swabi,No Domicile, CNIC,849,Intermediate
 1090,Mubeena Gul,Shah Zareen Khan,Swabi,No Domicile, CNIC,982,Intermediate
 1091,Sumayya Jahan,Jahan Bahadar,Swabi,Private,914,Intermediate
-1092,Muhammad Hashir,Sahibzada Muhammad Tariq,Charsadda,Private, No Affidavit,1003,Matric
+1092,Muhammad Hashir,Sahibzada Muhammad Tariq,Charsadda,Private,No Affidavit,1003,Matric
 1093,Muhammad Anas,Shamshad Khan,Charsadda,No Affidavit,904,Matric
 1094,Zuhaib Kamal,Muhammad Ibraheem,Lakki Marwat,Improper Affidaivt,882,HSSC
 1095,Muqaddis Majeed,Majeed Khan,Karak,No Affidavit,949,Matric
@@ -1101,7 +1101,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1100,Laraib Gull,Wai Muhammad,Tank,Improper Attestation,843,Matric
 1101,Zeenat un Nisa,Abdul Qayyum Khan,Lakki Marwat,Irrelevant Attestation (Affidavit) ,847,HSSC
 1102,Naheeda Bibi,Jan Muhammad,Lakki Marwat,Improper Attestation,899,HSSC
-1103,Ahtisham Khan,Khan Baz Khan,Bannu,Lower 60%, CNIC, Affidavit,655,Matric
+1103,Ahtisham Khan,Khan Baz Khan,Bannu,Marks are Lower than 60%, CNIC, Affidavit,655,Matric
 1104,Wajeeha,Nighmat Ullah Khan,Buner,No DMC, Domicile, CNIC,656,Matric
 1105,Safia,Bahadar Zaman,Bannu,No Domicile/Form-B, DMC, 2023 student,--,HSSC
 1106,Sohail Ahmad,Fazal Amin,Swabi,Improper Affidavit,955,Matric
@@ -1109,7 +1109,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1108,Rooh Niaz Khan,Rahmat Ayaz Khan,Bannu,HSSC under Progress,493,HSSC
 1109,Ajay,Jamshaid,Kohat,2021, Private, Affidavit,952,HSSC
 1110,Naimat Ullah,Jehan Zeb,Swat,Improper Affidavit,803,Intermediate
-1111,Naifa,Shah Niaz Khan,Bannu,2018, Lower 60%, Irrelevant Attestation (Affidavit),652,HSSC
+1111,Naifa,Shah Niaz Khan,Bannu,2018, Marks are Lower than 60%, Irrelevant Attestation (Affidavit),652,HSSC
 1112,Sadia Majeeed ,Abdul Majeed,Lakki Marwat,Improper Attestation,753,HSSC
 1113,Salman Hussain,Khaista Khan,Mardan,No Affidavit, Domicile, CNIC,1125,Matric
 1114,Afnan Ali Shah,Muhammad Yousaf Shah,Lakki Marwat,HSSC in progress,405,HSSC
@@ -1141,7 +1141,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1140,Aiman Yaseen,Muhammad Yaseen,Swabi,2023 Student,980,Intermediate
 1141,Ume Sulaim,Abdul Ali,Lakki Marwat,Irrelevant Attestation (Affidavit),900,HSSC
 1142,Daim Gull,Robin Gull,Bannu,No Affidavit, CNIC, Domicile,962,Matric
-1143,Ayesha Noor,Noor Muhammad,D.I Khan,2022 student, No Affidavit,952,HSSC
+1143,Ayesha Noor,Noor Muhammad,D.I Khan,2022 student,No Affidavit,952,HSSC
 1144,Hafsa Nazir,Nazir Muhammad,Lakki Marwat,Irrelevant Attestation (Affidavit),954,Matric
 1145,Muhammad Afnan,Mir Sahib Khan,Tank,DMC, Affidavit,816,SSC/HSSC
 1146,Nida Gul,Sartaj Gul,Charsadda,CNIC, Attestation unreadable,993,HSSC
@@ -1149,12 +1149,12 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1148,Aleeba,Sadat Mand,Charsadda,Private,996,HSSC
 1149,Zulaikha Bibi,Sareeh Ullah,Charsadda,Private,1011,HSSC
 1150,Shazia Begum,Shamoz Khan,Charsadda,2022 student,773,HSSC
-1151,Yumna Siraj,Muhammad Siraj,Charsadda,Ex-Student, Private, Compart,989,HSSC
+1151,Yumna Siraj,Muhammad Siraj,Charsadda,Ex Student, Private, Compart,989,HSSC
 1152,Hajra,Rahman Ullah,Charsadda,2023 Student,749,HSSC
 1153,Musarat Shaheen,Mashal Khan,Lakki Marwat,No CNIC/Domicile,830,HSSC
 1154,Spogmai Ali,Ali Bahadar,Charsadda,CNIC Deficiency,932,HSSC
 1155,Nayab,Khaista Rahman,Charsadda,Improper Attestation,902,HSSC
-1156,Salma Begum,Khan Zareen,Charsadda,Ex-Student of 2024, Compart,841,HSSC
+1156,Salma Begum,Khan Zareen,Charsadda,Ex Student of 2024, Compart,841,HSSC
 1157,Alishba Sardar,Syed Sardar Shah,Charsadda,Improper Affidavit,819,HSSC
 1158,Halima Syed,Syed Muhammad Shah,Charsadda,Improper Affidavit,838,HSSC
 1159,Anosha Bibi,Sajjad Ahmad,Charsadda,Private, Compart,1071,HSSC
@@ -1323,6 +1323,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1322,Saeed Ullah,Naimat Ullah Jan,Bajaur,Out of Merit,978,Matric
 1323,Muhammad Yasin,Muhammad Ibrahim,Bajaur,Out of Merit,952,Matric
 1324,Muhammad Ramzan,Shaim Ullah Khan,S. Waziristan,Out of Merit,820,Matric
+
 
 
 
