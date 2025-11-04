@@ -200,7 +200,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 199,Zeenas,Asad Danial,Kohat,"Affidavit, Domicile, Special Quota documents",770,SSC
 200,Muhammad Kashif,Firdous Khan,Kohat,"Private, Lower 60%, other enclosure",689,SSC
 201,Muhammad Asim,Mir Ahmad Khan,Kohat,No enclosure,856,SSC
-202,Muhammad Rehan,Muhammad Abid,Kohat,Private-No affidavit-Domicile etc,858,SSC
+202,Muhammad Rehan,Muhammad Abid,Kohat,Private No affidavit Domicile etc,858,SSC
 203,Zulqarnain,Hameed Ullah Khan,Kohat,"Affidavit, Domicile, Special Quota documents",925,SSC
 204,Waseeb Ullah,Jan Muhammad,Kohat,"Private, No affidavit, CNIC, Domicile etc.",938,SSC
 205,Muhammad Kamran,Shahid ur Rehman,Kohat,"Private, Affidavit etc deficiency",1014,SSC
@@ -1323,5 +1323,6 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1322,Saeed Ullah,Naimat Ullah Jan,Bajaur,Out of Merit,978,Matric
 1323,Muhammad Yasin,Muhammad Ibrahim,Bajaur,Out of Merit,952,Matric
 1324,Muhammad Ramzan,Shaim Ullah Khan,S. Waziristan,Out of Merit,820,Matric
+
 
 
