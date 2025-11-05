@@ -1,30 +1,30 @@
 Serial,Student Name,Father Name,Address,Remarks,Marks,Class
-1,Abeera Shah,Syed Muhammad Tilbar Shah,Bannu,Out of Merit,929(1200),FSc
-2,Muhammad Hamad,Musafar,Mardan,Out of Merit,1081,FSc
-3,Muhammad Zeeshan,Shah Khalid,Nowshera,Out of Merit,1051,FSc
-4,Muhammad Jalal,Mirza Ali,Mardan,Out of Merit,1015,DAE
-5,Shive Narayan,Krishan Lal,Mardan,Out of Merit,946,DBA
-6,Mehreen Bikhtiar,Bakhtiar Ali,Swabi,Out of Merit,939,FSc
-7,Jawairia,Saeed Ullah Khan,Peshawar,Out of Merit,936,FSc
-8,Muhammad Adil,Nisar,Mardan,Out of Merit,936,FSc
-9,Muskan Wahab,Noor Wahab,Tank,Out of Merit,963,FSc
-10,Obaid Ullah,Saaz Gul,Upper Dir,Out of Merit,935,FSc
-11,Mustafa Sohaib,Fazal Ali,Kabal Swat,Out of Merit,935,FSc
-12,Abdul Malik Khan,Ziatullah Khan,Peshawar,Out of Merit,931,FSc
-13,Saif Ullah Khan,Khan Sherin,Lakki Marwat,Out of Merit,930,FSc
-14,Abbas Khan,Bahar uddin,Mardan,Out of Merit,929,FA
-15,Bushra Bibi,Subhan Ullah,Swabi,Out of Merit,924,FSc
-16,Salman Raheen,Muhammad Raheem Shah,Upper Chitral,Out of Merit,924,FSc
-17,Alham Bibi,Ameer Ullah Khan,Buner,Out of Merit,923,Matric
-18,Shaista Ghulam,Ghulam Muhammad,Mardan,Out of Merit,922,FSc
-19,Aneela Rahman ,Ghani ur Rahman,Swabi,Out of Merit,921,FSc
-20,Shukria,Nishat Ahmad,Charsadda,Out of Merit,953,Matric
-21,Manahil Farooq,Ghulam Farooq,Peshawar,Out of Merit,952,Matric
-22,Shafiq ur Rehman ,Wali Khan,Shangla,Out of Merit,950,FSc
-23,Marwa,Zia Jan,Charsadda,Out of Merit,949,Matric
-24,Hina,Muhammad Ayaz,Charsadda,Out of Merit,949,FSc
-25,Laiba Gul,Ihsan Ullah,Charsadda,Out of Merit,947,FSc
-26,Muhammad Hamad Shafi,Saif Ullah Khan,Lakki Marwat,Out of Merit,946,Matric
+1,Abeera Shah,Syed Muhammad Tilbar Shah,Bannu,Out of Merit as per maintained Meritorious list,929(1200),FSc
+2,Muhammad Hamad,Musafar,Mardan,Out of Merit as per maintained Meritorious list,1081,FSc
+3,Muhammad Zeeshan,Shah Khalid,Nowshera,Out of Merit as per maintained Meritorious list,1051,FSc
+4,Muhammad Jalal,Mirza Ali,Mardan,Out of Merit as per maintained Meritorious list,1015,DAE
+5,Shive Narayan,Krishan Lal,Mardan,Out of Merit as per maintained Meritorious list,946,DBA
+6,Mehreen Bikhtiar,Bakhtiar Ali,Swabi,Out of Merit as per maintained Meritorious list,939,FSc
+7,Jawairia,Saeed Ullah Khan,Peshawar,Out of Merit as per maintained Meritorious list,936,FSc
+8,Muhammad Adil,Nisar,Mardan,Out of Merit as per maintained Meritorious list,936,FSc
+9,Muskan Wahab,Noor Wahab,Tank,Out of Merit as per maintained Meritorious list,963,FSc
+10,Obaid Ullah,Saaz Gul,Upper Dir,Out of Merit as per maintained Meritorious list,935,FSc
+11,Mustafa Sohaib,Fazal Ali,Kabal Swat,Out of Merit as per maintained Meritorious list,935,FSc
+12,Abdul Malik Khan,Ziatullah Khan,Peshawar,Out of Merit as per maintained Meritorious list,931,FSc
+13,Saif Ullah Khan,Khan Sherin,Lakki Marwat,Out of Merit as per maintained Meritorious list,930,FSc
+14,Abbas Khan,Bahar uddin,Mardan,Out of Merit as per maintained Meritorious list,929,FA
+15,Bushra Bibi,Subhan Ullah,Swabi,Out of Merit as per maintained Meritorious list,924,FSc
+16,Salman Raheen,Muhammad Raheem Shah,Upper Chitral,Out of Merit as per maintained Meritorious list,924,FSc
+17,Alham Bibi,Ameer Ullah Khan,Buner,Out of Merit as per maintained Meritorious list,923,Matric
+18,Shaista Ghulam,Ghulam Muhammad,Mardan,Out of Merit as per maintained Meritorious list,922,FSc
+19,Aneela Rahman ,Ghani ur Rahman,Swabi,Out of Merit as per maintained Meritorious list,921,FSc
+20,Shukria,Nishat Ahmad,Charsadda,Out of Merit as per maintained Meritorious list,953,Matric
+21,Manahil Farooq,Ghulam Farooq,Peshawar,Out of Merit as per maintained Meritorious list,952,Matric
+22,Shafiq ur Rehman ,Wali Khan,Shangla,Out of Merit as per maintained Meritorious list,950,FSc
+23,Marwa,Zia Jan,Charsadda,Out of Merit as per maintained Meritorious list,949,Matric
+24,Hina,Muhammad Ayaz,Charsadda,Out of Merit as per maintained Meritorious list,949,FSc
+25,Laiba Gul,Ihsan Ullah,Charsadda,Out of Merit as per maintained Meritorious list,947,FSc
+26,Muhammad Hamad Shafi,Saif Ullah Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,946,Matric
 27,Abdul Ahmad,Ikhtiar Ali,Swabi,Private,983,Matric
 28,Haseeba,Mukaram Khan,Mardan,Improper Attestation,960,FSc
 29,Sawaera,Ghulam Muhammad,Charsadda,Application not Attested,976,Matric
@@ -34,79 +34,79 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 33,Iftikhar Ahmad,Nisar Ahmad,Mardan,Irrelevant Attestation (Affidavit) ,1030,FA
 34,Aiman Malik,Sohail Ahmad,Charsadda,Private,1032,FSc
 35,Naveed Ullah,Sher Muhammad,Mardan,Irrelevant Attestation (Affidavit),1038,FSc
-36,Fazullah,Muhammad Sultan,Mardan,Out of Merit,890,FA
-37,Sundas Gul,Qadir Rehman,Bannu,Out of Merit,854,FSc
-38,Muhammad Daniyal Kareem,Abdul Kareem Jan Marwat,Lakki Marwat,Out of Merit,885,FSc
-39,Noor,Fazal Iqbal Khan,Bannu,Out of Merit,909,FA
-40,Ishfaq Ahmad,Faiz Ullah,Upper Chitral,Out of Merit,923(1200),HSSC
-41,Sohail Ahmad,Atta Ullah,Shangla,Out of Merit,887,FSc
-42,Atif Raheem,Suleman Khan,Bannu,Out of Merit,901,FSc
-43,Muskan Anum,Inam Ullah,Lakki Marwat,Out of Merit,906,FSc
-44,Areesha Khan,Imtiaz Khan,Swabi,Out of Merit,900,FSc
-45,Mahnoor Shahid,Shahid Ishfaq,Swabi,Out of Merit,916,FA
-46,Sabawoon Bibi,Bashir Khan,Charsadda,Out of Merit,907,FSc
-47,Memoona Hameed,Abdul Hameed Khan,Lakki Marwat,Out of Merit,903,FSc
-48,Hajira Khan,Zahir Ullah Khan,Charsadda,Out of Merit,909,FSc
-49,Shanza Noor,Abdul Gafar,Mardan,Out of Merit,905,FA
+36,Fazullah,Muhammad Sultan,Mardan,Out of Merit as per maintained Meritorious list,890,FA
+37,Sundas Gul,Qadir Rehman,Bannu,Out of Merit as per maintained Meritorious list,854,FSc
+38,Muhammad Daniyal Kareem,Abdul Kareem Jan Marwat,Lakki Marwat,Out of Merit as per maintained Meritorious list,885,FSc
+39,Noor,Fazal Iqbal Khan,Bannu,Out of Merit as per maintained Meritorious list,909,FA
+40,Ishfaq Ahmad,Faiz Ullah,Upper Chitral,Out of Merit as per maintained Meritorious list,923(1200),HSSC
+41,Sohail Ahmad,Atta Ullah,Shangla,Out of Merit as per maintained Meritorious list,887,FSc
+42,Atif Raheem,Suleman Khan,Bannu,Out of Merit as per maintained Meritorious list,901,FSc
+43,Muskan Anum,Inam Ullah,Lakki Marwat,Out of Merit as per maintained Meritorious list,906,FSc
+44,Areesha Khan,Imtiaz Khan,Swabi,Out of Merit as per maintained Meritorious list,900,FSc
+45,Mahnoor Shahid,Shahid Ishfaq,Swabi,Out of Merit as per maintained Meritorious list,916,FA
+46,Sabawoon Bibi,Bashir Khan,Charsadda,Out of Merit as per maintained Meritorious list,907,FSc
+47,Memoona Hameed,Abdul Hameed Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,903,FSc
+48,Hajira Khan,Zahir Ullah Khan,Charsadda,Out of Merit as per maintained Meritorious list,909,FSc
+49,Shanza Noor,Abdul Gafar,Mardan,Out of Merit as per maintained Meritorious list,905,FA
 50,Muhammad Ibrahim,Mir Akbar,Mardan,Irrelevant Attestation (Affidavit) ,971,FSc
 51,Siyad Iqbal,Nawaz Khan,Mardan,Irrelevant Attestation (Affidavit),966,FSc
-52,Areeba Fanoosh,Istifanosh Mian,swat,Out of Merit,945,FSc
-53,Raheena,Masti Khan,Lakki Marwat,Out of Merit,761,FSc
-54,Muhammad Ismail Khan,Hazrat Hussain,Peshawar,Out of Merit,745,FSc
-55,Sadaqat Begum,Buzarg Muhammad,Dir Upper,Out of Merit,863,FSc
-56,Hafsa Bibi,Farid Ullah,Peshawar,Out of Merit,911,FSc
-57,Mehmood,Ameer Shah,Lakki Marwat,Out of Merit,847,FSc
-58,Nayab Bibi,Fazal Akbar,Peshawar,Out of Merit,864,FA
-59,Hafsa  ,Muhammad Hassan,Lakki Marwat,Out of Merit,777,FSc
-60,Maryam,Misal Khan,Lakki Marwat,Out of Merit,862,FSc
-61,Khansa Bibi,Faqir Bahadur,swabi,Out of Merit,816,FA
-62,Ateeqa Taj,Khan Taj,Swabi,Out of Merit,815,FSC
-63,Sapna Zulfiqar,Zulfiqar Ali,Swabi,Out of Merit,877,FSC
-64,Marwa Wisal ,Wisal Khan,Swabi,Out of Merit,821,FSC
-65,Zikra Hussain,Sardar Hussain,swabi,Out of Merit,844,FSC
-66,Mahnoor Tariq,M. Tariq,Swabi,Out of Merit,716,FSC
-67,Hammad Kaleem,Kaleem Ullah Khan,Lakki Marwat,Out of Merit,748,FSC
-68,Humaira Bib,Yar Muhammad,Charsadda,Out of Merit,824,FSC
-69,Simab Bibi,Abdur Rahim Khan,Lakki Marwat,Out of Merit,777,FSC
-70,Marwa bibi,Amjad Ali,Charsadda,Out of Merit,849,FSC
-71,Haseena Gul,Sher Ali Khan,Mardan,Out of Merit,868,FSC
-72,Sadia Tila,Tila Muhammad,Charsadda,Out of Merit,842,FSC
-73,Liaba Murtaza,Murtaza Khan,Charsadda,Out of Merit,803,FSC
-74,Safia Ghulam,Ghulam Muhammad,Charsadda,Out of Merit & incomplete doucuments,931,HSSC
-75,Naheeda Qureshi,Nasib Nawaz Khan,Bannu,Out of Merit,868,FSc
-76,Laiba Latif,Muhammad Latif,Lakki Marwat,Out of Merit,862,FSc
-77,Kainat Bibi,Ghulam Haider,Lakki Marwat,Out of Merit,809,FSc
-78,Iqra,Abdullah Shah,Lakki Marwat,Out of Merit,838,FA
-79,Haseena Bibi,Akheya Jan,Lakki Marwat,Out of Merit,849,HSSC
+52,Areeba Fanoosh,Istifanosh Mian,swat,Out of Merit as per maintained Meritorious list,945,FSc
+53,Raheena,Masti Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,761,FSc
+54,Muhammad Ismail Khan,Hazrat Hussain,Peshawar,Out of Merit as per maintained Meritorious list,745,FSc
+55,Sadaqat Begum,Buzarg Muhammad,Dir Upper,Out of Merit as per maintained Meritorious list,863,FSc
+56,Hafsa Bibi,Farid Ullah,Peshawar,Out of Merit as per maintained Meritorious list,911,FSc
+57,Mehmood,Ameer Shah,Lakki Marwat,Out of Merit as per maintained Meritorious list,847,FSc
+58,Nayab Bibi,Fazal Akbar,Peshawar,Out of Merit as per maintained Meritorious list,864,FA
+59,Hafsa  ,Muhammad Hassan,Lakki Marwat,Out of Merit as per maintained Meritorious list,777,FSc
+60,Maryam,Misal Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,862,FSc
+61,Khansa Bibi,Faqir Bahadur,swabi,Out of Merit as per maintained Meritorious list,816,FA
+62,Ateeqa Taj,Khan Taj,Swabi,Out of Merit as per maintained Meritorious list,815,FSC
+63,Sapna Zulfiqar,Zulfiqar Ali,Swabi,Out of Merit as per maintained Meritorious list,877,FSC
+64,Marwa Wisal ,Wisal Khan,Swabi,Out of Merit as per maintained Meritorious list,821,FSC
+65,Zikra Hussain,Sardar Hussain,swabi,Out of Merit as per maintained Meritorious list,844,FSC
+66,Mahnoor Tariq,M. Tariq,Swabi,Out of Merit as per maintained Meritorious list,716,FSC
+67,Hammad Kaleem,Kaleem Ullah Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,748,FSC
+68,Humaira Bib,Yar Muhammad,Charsadda,Out of Merit as per maintained Meritorious list,824,FSC
+69,Simab Bibi,Abdur Rahim Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,777,FSC
+70,Marwa bibi,Amjad Ali,Charsadda,Out of Merit as per maintained Meritorious list,849,FSC
+71,Haseena Gul,Sher Ali Khan,Mardan,Out of Merit as per maintained Meritorious list,868,FSC
+72,Sadia Tila,Tila Muhammad,Charsadda,Out of Merit as per maintained Meritorious list,842,FSC
+73,Liaba Murtaza,Murtaza Khan,Charsadda,Out of Merit as per maintained Meritorious list,803,FSC
+74,Safia Ghulam,Ghulam Muhammad,Charsadda,Out of Merit as per maintained Meritorious list & incomplete doucuments,931,HSSC
+75,Naheeda Qureshi,Nasib Nawaz Khan,Bannu,Out of Merit as per maintained Meritorious list,868,FSc
+76,Laiba Latif,Muhammad Latif,Lakki Marwat,Out of Merit as per maintained Meritorious list,862,FSc
+77,Kainat Bibi,Ghulam Haider,Lakki Marwat,Out of Merit as per maintained Meritorious list,809,FSc
+78,Iqra,Abdullah Shah,Lakki Marwat,Out of Merit as per maintained Meritorious list,838,FA
+79,Haseena Bibi,Akheya Jan,Lakki Marwat,Out of Merit as per maintained Meritorious list,849,HSSC
 80,Sawaira Shamshad,Shamshad Ali,Charsadda,Our of Merit,869,FA
-81,Adil Rehman,Gul Rehman,Bannu,Out of Merit,750,FSc
-82,Waseem Ullah,Afsar Ullah Khan,Bannu,Out of Merit,752,FSc
-83,Malaika Ameen,Muhammad Ameen,Lakki Marwat,Out of Merit,892,FSc
-84,Wajid ur Rehman ,Bakht Rehman,Mardan,Out of Merit,860,FSc
+81,Adil Rehman,Gul Rehman,Bannu,Out of Merit as per maintained Meritorious list,750,FSc
+82,Waseem Ullah,Afsar Ullah Khan,Bannu,Out of Merit as per maintained Meritorious list,752,FSc
+83,Malaika Ameen,Muhammad Ameen,Lakki Marwat,Out of Merit as per maintained Meritorious list,892,FSc
+84,Wajid ur Rehman ,Bakht Rehman,Mardan,Out of Merit as per maintained Meritorious list,860,FSc
 85,Lubna Gufran,Gufran Ullah,Mardan,Our of Merit,879,FSc
-86,Areesha Farooq,Farooq Shah,Swabi,Out of Merit,799,FSc
-87,Aiman Khan,Ashraf Khan,Mardan,Out of Merit,886,FA
-88,Tahir Ahmad,Sartaj Khan,Lakki Marwat,Out of Merit,747,FA
-89,Mahnoor ,Farman ud Din,Mardan,Out of Merit,826,FA
-90,Muhammad Suleman,Lal Zada,Mardan,Out of Merit,878,FA
-91,Ahmad Ali,Shoukat Ali,Mardan,Out of Merit,853,Matric
-92,Mahnoor Hush,Khushdil Khan,Mardan,Out of Merit,886,FA
-93,Naseem Ullah,Shah Gul,Mardan,Out of Merit,866,FSc
-94,Inam Ullah,Aurang Zeb,Nowshera,Out of Merit,788,FSc
-95,Ihsan Ullah,Muhammad Hussain,Mardan,Out of Merit,850,FSc
-96,Laiba Nigar,Hair Gul,Mardan,Out of Merit,808,FA
-97,Abbas Khan,Zakir Ullah,Mardan,Out of Merit,843,FA
-98,Kiran Tariq,Muhammad Tariq,Mardan,Out of Merit,869,FSc
-99,Yousra Shah,Farooq,Mardan,Out of Merit,867,Matric
-100,Safia Bibi,Umar Khitab,Mardan,Out of Merit,790,FA
-101,Ihtisham Hussain,Parvez Hussain,Mardan,Out of Merit,836,FA
-102,Umair Ali,Majeed Gul,Mardan,Out of Merit,826,FSc
-103,Hameed Ullah,Sultan Zeb,Mardan,Out of Merit,877,FSc
-104,Samia Bibi,Farid Khan,Lakki Marwat,Out of Merit,821,FSc
-105,Laiba Bibi,Ghulam Qadir Khan,Lakki Marwat,Out of Merit,728,FSC
-106,Nayab,Muhammad Ghulam,Lakki Marwat,Out of Merit,728,FSC
-107,Zahir Ullah,Rahamdil Khan,Lakki Marwat,Out of Merit,842,FSC
-108,Komal Bibi,Habib Ullah,Mardan,Out of Merit,898,FSC
+86,Areesha Farooq,Farooq Shah,Swabi,Out of Merit as per maintained Meritorious list,799,FSc
+87,Aiman Khan,Ashraf Khan,Mardan,Out of Merit as per maintained Meritorious list,886,FA
+88,Tahir Ahmad,Sartaj Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,747,FA
+89,Mahnoor ,Farman ud Din,Mardan,Out of Merit as per maintained Meritorious list,826,FA
+90,Muhammad Suleman,Lal Zada,Mardan,Out of Merit as per maintained Meritorious list,878,FA
+91,Ahmad Ali,Shoukat Ali,Mardan,Out of Merit as per maintained Meritorious list,853,Matric
+92,Mahnoor Hush,Khushdil Khan,Mardan,Out of Merit as per maintained Meritorious list,886,FA
+93,Naseem Ullah,Shah Gul,Mardan,Out of Merit as per maintained Meritorious list,866,FSc
+94,Inam Ullah,Aurang Zeb,Nowshera,Out of Merit as per maintained Meritorious list,788,FSc
+95,Ihsan Ullah,Muhammad Hussain,Mardan,Out of Merit as per maintained Meritorious list,850,FSc
+96,Laiba Nigar,Hair Gul,Mardan,Out of Merit as per maintained Meritorious list,808,FA
+97,Abbas Khan,Zakir Ullah,Mardan,Out of Merit as per maintained Meritorious list,843,FA
+98,Kiran Tariq,Muhammad Tariq,Mardan,Out of Merit as per maintained Meritorious list,869,FSc
+99,Yousra Shah,Farooq,Mardan,Out of Merit as per maintained Meritorious list,867,Matric
+100,Safia Bibi,Umar Khitab,Mardan,Out of Merit as per maintained Meritorious list,790,FA
+101,Ihtisham Hussain,Parvez Hussain,Mardan,Out of Merit as per maintained Meritorious list,836,FA
+102,Umair Ali,Majeed Gul,Mardan,Out of Merit as per maintained Meritorious list,826,FSc
+103,Hameed Ullah,Sultan Zeb,Mardan,Out of Merit as per maintained Meritorious list,877,FSc
+104,Samia Bibi,Farid Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,821,FSc
+105,Laiba Bibi,Ghulam Qadir Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,728,FSC
+106,Nayab,Muhammad Ghulam,Lakki Marwat,Out of Merit as per maintained Meritorious list,728,FSC
+107,Zahir Ullah,Rahamdil Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,842,FSC
+108,Komal Bibi,Habib Ullah,Mardan,Out of Merit as per maintained Meritorious list,898,FSC
 109,Ahmad Ghafoor,Abdul Ghafoor,Mansehra,Received on 27-2-2025 as after due date & Incomplete 2023 Private,1015,FSC
 110,Malaika Gul,Asmat Ullah Khan,Lakki Marwat,2023,998,Matric
 111,Muhammad Anas,Amjad Islam,Lund Khwarh,Irrelevant Attestation (Affidavit),1019,Matric
@@ -125,42 +125,42 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 124,Nayab Gohar,Gohar Zaman,Charsadda,Application Incomplete,1071,Matric
 125,Noorjehan Afridi,Lal Mat Khan,Peshawar,Domicile Khyber & CNIC Peshawar,3112(4400),BS Zoology
 126,Muhammad Wajid ,Muhammad Sajid,Peshawar,incomplete documents & out of merts,941,FSC
-127,Muhammad Sadiq,Umar Ayaz,Lakki Marwat,Out of Merit,865,Matric
-128,Maria Gul,Gul Badsha,Mardan,Out of Merit,918,Matric
+127,Muhammad Sadiq,Umar Ayaz,Lakki Marwat,Out of Merit as per maintained Meritorious list,865,Matric
+128,Maria Gul,Gul Badsha,Mardan,Out of Merit as per maintained Meritorious list,918,Matric
 129,Hansa Bibi,Said Muhmood khan,Charsadda,Incomplete application,979,Matric
 130,Malik Muhammad Saad,Pasand gul,Khyber,Incomplete doucuments,0,Nil
 131,Saddiqa Hafiz,Hafiz Ullah,Peshawar,Incomplete doucuments,0,Nil
-132,Zaid Khattak,Ishtiaq-ur-rehman,Nowshera,Out of Merit ,904,FA
-133,Owais Ahmad,Tariq Ahmad,Peshawar,Out of Merit & Incomplete doucments,686,FSc
+132,Zaid Khattak,Ishtiaq-ur-rehman,Nowshera,Out of Merit as per maintained Meritorious list ,904,FA
+133,Owais Ahmad,Tariq Ahmad,Peshawar,Out of Merit as per maintained Meritorious list & Incomplete doucments,686,FSc
 134,Hansa Tariq,Tariq Ahmad,Peshawar,Incomplete doucuments,1024,FSC
-135,Nazifa Gul,Asmat Ullah Khan,Lakki Marwat,Out of Merit,970,Matric
+135,Nazifa Gul,Asmat Ullah Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,970,Matric
 136,Sadaf Imtiaz,Imtiaz Ahmad,Peshawar,Incomplete doucuments,0,NIl
-137,Habiba ,Ata Ullah,Charsadda,Out of Merit,893,Matric
-138,Museera,Jaffar Khan,Charsadda,Out of Merit,890,Matric
-139,Mahreen,Ali Hazrat,Peshawar,Out of Merit,881,Matric
-140,Muneeba,Raham dad,Charsadda,Out of Merit,879,Matric
-141,Sahreen javed,javed Iqbal,Lakki Marwat,Out of Merit,875,Matric
-142,Tooba Rahman,Muhammad taneem ur Rehman,Mardan,Out of Merit,870,Matric
-143,Muskan Bibi,Siraj,Charsadda,Out of Merit,859,Matric
-144,Sara ,Lal Said ,Charsadda,Out of Merit,854,Matric
-145,Shahnaz,Imranullah,Charsadda,Out of Merit,852,Matric
-146,Tahira Bibi,Soorat Khan,Tank,Out of Merit,850,Matric
-147,Bakhtawar Jalal,Jalal Gul,Peshawar,Out of Merit,823,Matric
-148,Kashmala Noor,Noor-uddin,Peshawar,Out of Merit,814,Matric
-149,Iqra,Zafeer gul ,Peshawar,Out of Merit,802,Matric
-150,Inayat Ullah,Muhammad sultan,Mardan,Out of Merit,818,Matric
-151,sudais Ahmad,Muhammad Naeem,Nowshera,Out of Merit,819,Matric
-152,Hussain Ahmad,Muhammad Naeem,Nowshera,Out of Merit,899,Matric
-153,Safia Naz,Umar Qiaz Khan,Bannu,Out of Merit,790,matric
-154,Hina,Abdurrauf,Buner,Out of Merit,739,matric
-155,Haseena,Anwar Khan,Lakki Marwat,Out of Merit,837,Matric
-156,Husna Bibi ,Liaqat Ali ,Bajaur,Out of Merit,835,Matric
-157,Nayab,Muhammad Hassan,Lakki Marwat,Out of Merit,820,Matric
-158,Khadija,Abdul Rahim,Lakki Marwat,Out of Merit,892,matric
-159,Maria Bibi,Tahir Zaman,Tank,Out of Merit,888,Matric
-160,Mehak Rameen,M. Nawaz khan,Tank,Out of Merit,899,matric
-161,Muhammad Abubakar wali,Wali Muhammad,Lakki Marwat,Out of Merit,737,Matric
-162,Shumaila ,Asmat Gul,Lakki Marwat,Out of Merit,853,Matric
+137,Habiba ,Ata Ullah,Charsadda,Out of Merit as per maintained Meritorious list,893,Matric
+138,Museera,Jaffar Khan,Charsadda,Out of Merit as per maintained Meritorious list,890,Matric
+139,Mahreen,Ali Hazrat,Peshawar,Out of Merit as per maintained Meritorious list,881,Matric
+140,Muneeba,Raham dad,Charsadda,Out of Merit as per maintained Meritorious list,879,Matric
+141,Sahreen javed,javed Iqbal,Lakki Marwat,Out of Merit as per maintained Meritorious list,875,Matric
+142,Tooba Rahman,Muhammad taneem ur Rehman,Mardan,Out of Merit as per maintained Meritorious list,870,Matric
+143,Muskan Bibi,Siraj,Charsadda,Out of Merit as per maintained Meritorious list,859,Matric
+144,Sara ,Lal Said ,Charsadda,Out of Merit as per maintained Meritorious list,854,Matric
+145,Shahnaz,Imranullah,Charsadda,Out of Merit as per maintained Meritorious list,852,Matric
+146,Tahira Bibi,Soorat Khan,Tank,Out of Merit as per maintained Meritorious list,850,Matric
+147,Bakhtawar Jalal,Jalal Gul,Peshawar,Out of Merit as per maintained Meritorious list,823,Matric
+148,Kashmala Noor,Noor-uddin,Peshawar,Out of Merit as per maintained Meritorious list,814,Matric
+149,Iqra,Zafeer gul ,Peshawar,Out of Merit as per maintained Meritorious list,802,Matric
+150,Inayat Ullah,Muhammad sultan,Mardan,Out of Merit as per maintained Meritorious list,818,Matric
+151,sudais Ahmad,Muhammad Naeem,Nowshera,Out of Merit as per maintained Meritorious list,819,Matric
+152,Hussain Ahmad,Muhammad Naeem,Nowshera,Out of Merit as per maintained Meritorious list,899,Matric
+153,Safia Naz,Umar Qiaz Khan,Bannu,Out of Merit as per maintained Meritorious list,790,matric
+154,Hina,Abdurrauf,Buner,Out of Merit as per maintained Meritorious list,739,matric
+155,Haseena,Anwar Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,837,Matric
+156,Husna Bibi ,Liaqat Ali ,Bajaur,Out of Merit as per maintained Meritorious list,835,Matric
+157,Nayab,Muhammad Hassan,Lakki Marwat,Out of Merit as per maintained Meritorious list,820,Matric
+158,Khadija,Abdul Rahim,Lakki Marwat,Out of Merit as per maintained Meritorious list,892,matric
+159,Maria Bibi,Tahir Zaman,Tank,Out of Merit as per maintained Meritorious list,888,Matric
+160,Mehak Rameen,M. Nawaz khan,Tank,Out of Merit as per maintained Meritorious list,899,matric
+161,Muhammad Abubakar wali,Wali Muhammad,Lakki Marwat,Out of Merit as per maintained Meritorious list,737,Matric
+162,Shumaila ,Asmat Gul,Lakki Marwat,Out of Merit as per maintained Meritorious list,853,Matric
 163,Sayed Muqayyed Hussain,Sayed Noor Sayed,Orakzai,Received after due date,2922(4200),BS in SE
 164,Malaika Sami,Sami Ullah Khan,Lakki Marwat,Private,957,Matric
 165,Shah Fahad,Shah Rozam Khan,Batagram,2022 student & Private,949,HSSC
@@ -211,76 +211,76 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 210,Reshma Noor,Noor ul Wahab,Mardan,No Affidavit,849,HSSC
 211,Muhammad Nadeem,Umar Ali Khan,Bannu,Private,905,FSC
 212,Amjad Salar,Shaheed ullah khan,Bannu,Marks are Lower than 60%,691,FA
-213,Shaid ullah,Rehmat Ullah,Lakki Marwat,Out of Merit,795,FA
-214,Rahat Ullah Khan,Ain Ullah Khan,Bannu,Out of Merit,759,Matric
+213,Shaid ullah,Rehmat Ullah,Lakki Marwat,Out of Merit as per maintained Meritorious list,795,FA
+214,Rahat Ullah Khan,Ain Ullah Khan,Bannu,Out of Merit as per maintained Meritorious list,759,Matric
 215,Samia Bibi,Zahir Shah,Nowshera,out of merts,821,FA
-216,Ibad Ullah,Saeed Ullah Khan,Shangla,Out of Merit,829,SSC
-217,Ijaz ul Haq,Mir Wali Khan,sawabi,Out of Merit,863,SSC
-218,Sumbal Bibi,Muhkamin Khan,Charsadda,Out of Merit,854,SSC
-219,M. Amin Zeb,Aurang Zaib ,Lakki Marwat,Out of Merit,871,SSC
-220,Nadir Khan,Mashoor Khan,Bannu,Out of Merit,846,SSC
-221,Zia Ullah,Muzaffar Khan,Lakki Marwat,Out of Merit,879,SSC
-222,Muhammad Zahid,Ihsan Ullah,Lakki Marwat,Out of Merit,927,SSC
-223,Taj Muhammad,Bashir Ahmad,Lakki Marwat,Out of Merit,821,Matric
-224,Muhammad Ahmad,Khan Gull,Lakki Marwat,Out of Merit,824,matric
-225,RaKhman Ullah,Ramzan khan,Lakki Marwat,Out of Merit,908,Matric
-226,Iqra Imran,Muhammad yousaf Khan,Lakki Marwat,Out of Merit,840,matric
-227,Iqra Gul,Gulhanuddin,lower Dir,Out of Merit,842,FSC
-228,Muhammad Rizwan,Dawood Khan,Mansehra,Out of Merit,882,FSC
-229,Maryam Saeed,Saeed Ullah Khan,Mardan,Out of Merit,848,FSC
-230,Hafsa Inam,Inam Ullah,Lakki Marwat,Out of Merit,877,Matric
-231,Muhammad Junaid,Muhammad Sadiq,Lakki Marwat,Out of Merit,908,Matric
-232,Laiba Amir Khan,Amir Khan,Charsadda,Out of Merit,956,Matric
-233,Tayyeba,Qayyum Jan,Charsadda,Out of Merit,886,Matric
-234,Warisha Wali,Muhammad Wali,Charsadda,Out of Merit,874,Matric
-235,Mahrukh Bibi,Hidayat Hussain,Charsadda,Out of Merit,886,matric
-236,Omama,Saleem jan,Charsadda,Out of Merit,817,Matric
+216,Ibad Ullah,Saeed Ullah Khan,Shangla,Out of Merit as per maintained Meritorious list,829,SSC
+217,Ijaz ul Haq,Mir Wali Khan,sawabi,Out of Merit as per maintained Meritorious list,863,SSC
+218,Sumbal Bibi,Muhkamin Khan,Charsadda,Out of Merit as per maintained Meritorious list,854,SSC
+219,M. Amin Zeb,Aurang Zaib ,Lakki Marwat,Out of Merit as per maintained Meritorious list,871,SSC
+220,Nadir Khan,Mashoor Khan,Bannu,Out of Merit as per maintained Meritorious list,846,SSC
+221,Zia Ullah,Muzaffar Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,879,SSC
+222,Muhammad Zahid,Ihsan Ullah,Lakki Marwat,Out of Merit as per maintained Meritorious list,927,SSC
+223,Taj Muhammad,Bashir Ahmad,Lakki Marwat,Out of Merit as per maintained Meritorious list,821,Matric
+224,Muhammad Ahmad,Khan Gull,Lakki Marwat,Out of Merit as per maintained Meritorious list,824,matric
+225,RaKhman Ullah,Ramzan khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,908,Matric
+226,Iqra Imran,Muhammad yousaf Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,840,matric
+227,Iqra Gul,Gulhanuddin,lower Dir,Out of Merit as per maintained Meritorious list,842,FSC
+228,Muhammad Rizwan,Dawood Khan,Mansehra,Out of Merit as per maintained Meritorious list,882,FSC
+229,Maryam Saeed,Saeed Ullah Khan,Mardan,Out of Merit as per maintained Meritorious list,848,FSC
+230,Hafsa Inam,Inam Ullah,Lakki Marwat,Out of Merit as per maintained Meritorious list,877,Matric
+231,Muhammad Junaid,Muhammad Sadiq,Lakki Marwat,Out of Merit as per maintained Meritorious list,908,Matric
+232,Laiba Amir Khan,Amir Khan,Charsadda,Out of Merit as per maintained Meritorious list,956,Matric
+233,Tayyeba,Qayyum Jan,Charsadda,Out of Merit as per maintained Meritorious list,886,Matric
+234,Warisha Wali,Muhammad Wali,Charsadda,Out of Merit as per maintained Meritorious list,874,Matric
+235,Mahrukh Bibi,Hidayat Hussain,Charsadda,Out of Merit as per maintained Meritorious list,886,matric
+236,Omama,Saleem jan,Charsadda,Out of Merit as per maintained Meritorious list,817,Matric
 237,Liaba Khan,Qadir khan,Charsadda,private ,1058,matric
-238,Zuhra Gull,Muhammad Arshad Khan,Charsadda,Out of Merit,840,Matric
-239,Romaisa ,Qasim Khan,Charsadda,Out of Merit,786,matric
-240,Farishta Bibi,Rashid Iqbal,Charsadda,Out of Merit,839,matric
-241,sadiqa jalil,Abdul Jalil,Charsadda,Out of Merit,824,matric
-242,Rahila Jalil ,Abdul Jalil,Charsadda,Out of Merit,756,Matric
-243,Marwa,Abdul Wahid,Charsadda,Out of Merit,879,Matric
-244,Maheen Ali,Farhad Ali,Charsadda,Out of Merit,791,Matric
-245,Khizar Hayat,Noor Wahab,Charsadda,Out of Merit,828,Matric
-246,Haider Ali,Sardar Usman,Shangla,Out of Merit,813,Matric
-247,Amir Khan,Suliman,Mardan,Out of Merit,836,Matric
-248,M. Sameer Khan,Adil Shah,Mardan,Out of Merit,917,Matric
-249,Muhammad Talha,Zewar khan,Mardan,Out of Merit ,960,Matric
-250,Muhammad Ahamd,Muhammad Ibraheem,Mardan,Out of Merit,825,Matric
-251,Waqar Khan,Said Khan,Mardan,Out of Merit,956,Matric
-252,Haseen Ullah,Ihsan Ullah,Mardan,Out of Merit,930,Matric
-253,Aziz Ullah,Rahmat Ullah Khan,Lakki Marwat,Out of Merit,820,HSSC
-254,Haseena Zarshad,Zarshad Khan,Peshawar,Out of Merit,819,HSSC
-255,Aiman Bibi,Akheya Khan,Lakki Marwat,Out of Merit,760,SSC
-256,Sulaiman Khan,Zait Ullah,Charsadda,Out of Merit,860,SSC
-257,Muhammad Adnan,Zahid ur Rahman,Mardan,Out of Merit,960,SSC
-258,Atta Ullah,Habib Ullah,Mardan,Out of Merit,879,SSC
-259,Ahmad Hussain,Wajid Hussain,Mardan,Out of Merit,906,SSC
-260,Nouman Ahmad,Umar Bacha,Mardan,Out of Merit,924,SSC
-261,Mujeeb ur Rehman,Muhammad Suleman,Mardan,Out of Merit,948,SSC
-262,Muhammad Mashal Khan,Fayaz Khan,Mardan,Out of Merit,954,SSC
-263,Muhammad Zakariya Khan,Farzand Ali,Mardan,Out of Merit,815,SSC
-264,Waheed Khan,Tajamul Khan,Mardan,Out of Merit,941,SSC
-265,Kashif Khan,Bakht Zada,Mardan,Out of Merit,880,SSC
-266,Muhammad Tariq,Said Wali Khan,Mardan,Out of Merit,953,SSC
-267,Muhammad Junaid,Lal Zada,Mardan,Out of Merit,817,SSC
-268,Hasan Khan,Asad Zaman,Mardan,Out of Merit,799,SSC
-269,Muhammad Awais,Gul Bacha,Mardan,Out of Merit,744,SSC
-270,Muhammad Ibrahim,Rahman Ali,Mardan,Out of Merit,934,SSC
-271,Farhan Ali,Niaz Gul,Mardan,Out of Merit,937,SSC
-272,Ahmad Sohaib,Naeem Shah,Mardan,Out of Merit,946,SSC
-273,Gul Akbar,Gul Baz,Mardan,Out of Merit,796,SSC
-274,Muhammad Ahmad,Naimat Ullah,Mardan,Out of Merit,861,SSC
-275,Somaid ullah,Saeed ullah  ,Swabi,Out of Merit,819,SSC
-276,Palwasa,sefat ullah ,Lakki Marwat,Out of Merit,800,SSC
-277,Shaid ullah,yousaf Khan,Shangla,Out of Merit,871,SSC
+238,Zuhra Gull,Muhammad Arshad Khan,Charsadda,Out of Merit as per maintained Meritorious list,840,Matric
+239,Romaisa ,Qasim Khan,Charsadda,Out of Merit as per maintained Meritorious list,786,matric
+240,Farishta Bibi,Rashid Iqbal,Charsadda,Out of Merit as per maintained Meritorious list,839,matric
+241,sadiqa jalil,Abdul Jalil,Charsadda,Out of Merit as per maintained Meritorious list,824,matric
+242,Rahila Jalil ,Abdul Jalil,Charsadda,Out of Merit as per maintained Meritorious list,756,Matric
+243,Marwa,Abdul Wahid,Charsadda,Out of Merit as per maintained Meritorious list,879,Matric
+244,Maheen Ali,Farhad Ali,Charsadda,Out of Merit as per maintained Meritorious list,791,Matric
+245,Khizar Hayat,Noor Wahab,Charsadda,Out of Merit as per maintained Meritorious list,828,Matric
+246,Haider Ali,Sardar Usman,Shangla,Out of Merit as per maintained Meritorious list,813,Matric
+247,Amir Khan,Suliman,Mardan,Out of Merit as per maintained Meritorious list,836,Matric
+248,M. Sameer Khan,Adil Shah,Mardan,Out of Merit as per maintained Meritorious list,917,Matric
+249,Muhammad Talha,Zewar khan,Mardan,Out of Merit as per maintained Meritorious list ,960,Matric
+250,Muhammad Ahamd,Muhammad Ibraheem,Mardan,Out of Merit as per maintained Meritorious list,825,Matric
+251,Waqar Khan,Said Khan,Mardan,Out of Merit as per maintained Meritorious list,956,Matric
+252,Haseen Ullah,Ihsan Ullah,Mardan,Out of Merit as per maintained Meritorious list,930,Matric
+253,Aziz Ullah,Rahmat Ullah Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,820,HSSC
+254,Haseena Zarshad,Zarshad Khan,Peshawar,Out of Merit as per maintained Meritorious list,819,HSSC
+255,Aiman Bibi,Akheya Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,760,SSC
+256,Sulaiman Khan,Zait Ullah,Charsadda,Out of Merit as per maintained Meritorious list,860,SSC
+257,Muhammad Adnan,Zahid ur Rahman,Mardan,Out of Merit as per maintained Meritorious list,960,SSC
+258,Atta Ullah,Habib Ullah,Mardan,Out of Merit as per maintained Meritorious list,879,SSC
+259,Ahmad Hussain,Wajid Hussain,Mardan,Out of Merit as per maintained Meritorious list,906,SSC
+260,Nouman Ahmad,Umar Bacha,Mardan,Out of Merit as per maintained Meritorious list,924,SSC
+261,Mujeeb ur Rehman,Muhammad Suleman,Mardan,Out of Merit as per maintained Meritorious list,948,SSC
+262,Muhammad Mashal Khan,Fayaz Khan,Mardan,Out of Merit as per maintained Meritorious list,954,SSC
+263,Muhammad Zakariya Khan,Farzand Ali,Mardan,Out of Merit as per maintained Meritorious list,815,SSC
+264,Waheed Khan,Tajamul Khan,Mardan,Out of Merit as per maintained Meritorious list,941,SSC
+265,Kashif Khan,Bakht Zada,Mardan,Out of Merit as per maintained Meritorious list,880,SSC
+266,Muhammad Tariq,Said Wali Khan,Mardan,Out of Merit as per maintained Meritorious list,953,SSC
+267,Muhammad Junaid,Lal Zada,Mardan,Out of Merit as per maintained Meritorious list,817,SSC
+268,Hasan Khan,Asad Zaman,Mardan,Out of Merit as per maintained Meritorious list,799,SSC
+269,Muhammad Awais,Gul Bacha,Mardan,Out of Merit as per maintained Meritorious list,744,SSC
+270,Muhammad Ibrahim,Rahman Ali,Mardan,Out of Merit as per maintained Meritorious list,934,SSC
+271,Farhan Ali,Niaz Gul,Mardan,Out of Merit as per maintained Meritorious list,937,SSC
+272,Ahmad Sohaib,Naeem Shah,Mardan,Out of Merit as per maintained Meritorious list,946,SSC
+273,Gul Akbar,Gul Baz,Mardan,Out of Merit as per maintained Meritorious list,796,SSC
+274,Muhammad Ahmad,Naimat Ullah,Mardan,Out of Merit as per maintained Meritorious list,861,SSC
+275,Somaid ullah,Saeed ullah  ,Swabi,Out of Merit as per maintained Meritorious list,819,SSC
+276,Palwasa,sefat ullah ,Lakki Marwat,Out of Merit as per maintained Meritorious list,800,SSC
+277,Shaid ullah,yousaf Khan,Shangla,Out of Merit as per maintained Meritorious list,871,SSC
 278,M. Ismail ,Faqir muhammad,Mardan,Irrelevant Attestation (Affidavit),973,SSC
 279,Muhammad ilyan,Mir Wali,Mardan,Irrelevant Attestation (Affidavit),971,SSC
 280,kiramat shah,Khalid shah,Mardan,Irrelevant Attestation (Affidavit),960,SSC
 281,sonia,Jehan Zeb,Lakki Marwat,Application Form / Affidavit not Attested,963,SSC
-282,Muhammad Salman,Muhammad yousaf Khan,Bannu,Out of Merit,799,SSC
+282,Muhammad Salman,Muhammad yousaf Khan,Bannu,Out of Merit as per maintained Meritorious list,799,SSC
 283,muhammad husnain ,rafiq khan,Mardan,Irrelevant Attestation (Affidavit),979,SSC
 284,shezad ahamd ,sadiu khan,Mardan,Irrelevant Attestation (Affidavit),979,SSC
 285,farooq ahmad,ali bahadur,Mardan,Irrelevant Attestation (Affidavit),977,SSC
@@ -288,7 +288,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 287,Hadees,zahir shah,Mardan,Irrelevant Attestation (Affidavit),975,SSC
 288,Abdulullah Muhammad,sakhad muhamad,Mardan,Irrelevant Attestation (Affidavit),973,SSC
 289,yousaf shah,Aminur Rehamn ,Mardan,Irrelevant Attestation (Affidavit),730,SSC
-290,Zia ur Rehman,Rehman Sahil ,Mardan,Out of Merit,909,SSC
+290,Zia ur Rehman,Rehman Sahil ,Mardan,Out of Merit as per maintained Meritorious list,909,SSC
 291,Kashif Ali Shah,Hikmat shah,Peshawar,Attestation not visible,948,SSC
 292,Shah Husain ,Shah Faisal ,Mardan,Improper Attestation,984,SSC
 293,mustafa kamal ,Muhammad Rahim ,Mardan,Improper Attestation,987,ssc
@@ -304,10 +304,10 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 303,Anees ur Rehman,Saeed ur Rehman,Mardan,Improper Attestation,1009,SSC
 304,Qaim,Muhammad Tariq,Bannu,Passing year 2022 & Irrelevant Attestation (Affidavit),690,FA
 305,Malaika Sohrab,Sohrab ud din,Mardan,Form B domicile not attacheded,900,FSC
-306,Wajiha Rehman,Gul Rehman,Mardan,Affidavit not attested & the student is out of merit,793,ssc
+306,Wajiha Rehman,Gul Rehman,Mardan,Affidavit not attested & the student is Out of Merit as per maintained Meritorious list,793,ssc
 307,Sadaf Fayaz,Muhammad Fayaz,Mardan,Affidavit not attested,937,FSC
 308,Maida Rehman,Muhammad Rehman,Mardan,Affidavit not attested,1064,FSC
-309,Bibi Hafsa,Shakirullah,Mardan,Affidavit not attested & student is out of merit,854,FA
+309,Bibi Hafsa,Shakirullah,Mardan,Affidavit not attested & student is Out of Merit as per maintained Meritorious list,854,FA
 310,Najla Nawaz,Ahmad Nawaz,Buner,Deficiency of NIC domicile Form B,987,FA
 311,Muhammad Mansoor,Muhammad Shakeeb Khan,Bannu,Deficiency of Domicile Form B etc,840,SSC
 312,Aqsa Gul,Muhammad Azam Khan,Bannu,Deficiency of Domicile Father and Student CNIC,1010,HSSC
@@ -319,7 +319,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 318,Hira Gul,Imtiaz Ahmad,Mardan,Incomplete Affidavit,812,HSSC
 319,Sidra Imran,Muhammad Imran,Mardan,Incomplete Affidavit,845,SSc
 320,Maryam Mumtaz,Mumtaz Ahmad,Mardan,Imcomplete Affidavit,957,HSSC
-321,Ummehani,Muhammad Riaz Khan,Dir Upper,Out of Merit,833,HSSC
+321,Ummehani,Muhammad Riaz Khan,Dir Upper,Out of Merit as per maintained Meritorious list,833,HSSC
 322,Khadija Shahbaz,Shabaz Khan,Mardan,Improper Attestation,858,HSSC
 323,Aleesha Fayaz,Muhammad Fayaz,Mardan,Attestation not visible,928,HSSC
 324,Malaika Bibi,Fida Muhammad,Mardan,Deficiency of father student CNIC,787,HSSC
@@ -355,16 +355,16 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 354,Munazza,Jafar Shah,Swabi,BS (Urdu) in Progress,693,FSC
 355,Humaira Bib,Saeed Anwar,Mardan,2021 Student,804,FSC
 356,Spogmai Riaz ,Gul Riaz,Malakand,Private Student,834,FSC
-357,Sajida,Sher Abas Khan,Bannu,Irrelevant Affidavit & Out of Merit,728,FA
-358,Irshad,Sher Abas Khan,Bannu,Irrelevant Affidavit Out of Merit,725,FA
-359,Nafees,M. Naseem Shah,Bannu,Irrelevant Affidavit and Out of Merit,751,FA
-360,Khadija Kefayat ,Kefayat Ullah Khan,Bannu,Irrelevant Affidavit and Out of Merit,728,FA
-361,Liaba,Janan,Bannu,Irrelevant Affidavit and Out of Merit,848,FA
-362,Nadia Dawoot,Mir Dawoot,Bannu,Irrelevant Affidavit & Out of Merit,755,FA
-363,Saira Bibi,Ihsan Ullah,Bannu,Irrelevant Affidavit & Out of Merit,786,FA
-364,Ruhsana Naeem,Naeem Khan,Bannu,Irrelevant Affidavit & Out of Merit,827,FA
-365,Zeenat Jahangir,Jahangir Khan,Bannu,Irrelevant Affidavit and Out of Merit,768,FA
-366,Fariha Farid,Farid ullah,Bannu,Irrelevant Affidavit and Out of Merit,802,FA
+357,Sajida,Sher Abas Khan,Bannu,Irrelevant Affidavit & Out of Merit as per maintained Meritorious list,728,FA
+358,Irshad,Sher Abas Khan,Bannu,Irrelevant Affidavit Out of Merit as per maintained Meritorious list,725,FA
+359,Nafees,M. Naseem Shah,Bannu,Irrelevant Affidavit and Out of Merit as per maintained Meritorious list,751,FA
+360,Khadija Kefayat ,Kefayat Ullah Khan,Bannu,Irrelevant Affidavit and Out of Merit as per maintained Meritorious list,728,FA
+361,Liaba,Janan,Bannu,Irrelevant Affidavit and Out of Merit as per maintained Meritorious list,848,FA
+362,Nadia Dawoot,Mir Dawoot,Bannu,Irrelevant Affidavit & Out of Merit as per maintained Meritorious list,755,FA
+363,Saira Bibi,Ihsan Ullah,Bannu,Irrelevant Affidavit & Out of Merit as per maintained Meritorious list,786,FA
+364,Ruhsana Naeem,Naeem Khan,Bannu,Irrelevant Affidavit & Out of Merit as per maintained Meritorious list,827,FA
+365,Zeenat Jahangir,Jahangir Khan,Bannu,Irrelevant Affidavit and Out of Merit as per maintained Meritorious list,768,FA
+366,Fariha Farid,Farid ullah,Bannu,Irrelevant Affidavit and Out of Merit as per maintained Meritorious list,802,FA
 367,Nazish Ihsan,Ihsan Ullah Khan,Bannu,Irrelevant Affidavit,831,HSSC
 368,Hajra Nawaz,Dil Nawaz,Bannu,Irrelevant Affidavit,780,HSSC
 369,Laiba Rashid,Abdul Rashid Khan,Bannu,Irrelevant Affidavit,815,HSSC
@@ -504,7 +504,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 503,Sidra Raqeeb,Raqibaz Khan,Bannu,No Affidavit,883,SSC
 504,Manahil Iqbal,Syed Iqbal,Bannu,No Affidavit,969,SSC
 505,Marwa Anfal,Hidayat ullah Khan,Bannu,No Affidavit Form-B etc,947,SSC
-506,Jamshid Khan,Khaisoor Khan,Bannu,SSC 2023 Private and Out of Merit,635,SSC
+506,Jamshid Khan,Khaisoor Khan,Bannu,SSC 2023 Private and Out of Merit as per maintained Meritorious list,635,SSC
 507,Abdul Wahab,Shah Baz Khan,Bannu,HSSC in progress,731,SSC
 508,Atif Nawaz,Taj Nawaz,Bannu,HSSC in progress,932,SSC
 509,Jamshed khan ,Hameed Ullah Khan,Bannu,HSSC in progress,819,SSC
@@ -521,8 +521,8 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 520,Summayya Noor,Noor ul Wahab,Mardan,No Affidavit attached,839,FA
 521,Sahar,Gul Shere ,Mardan,Irrelevant Affidavit,834,FSc
 522,Zakir Ullah,Muhammad saeed,Lakki Marwat,No Affidavit and HSSC in progress,470,HSSC in Progress
-523,Saima Bibi,Muhammad Younis Khan,Lakki Marwat,Out of Merit,881,SSC
-524,Sheikh Muhammad,Azhar Saifoor,Bannu,Out of Merit,878,SSC
+523,Saima Bibi,Muhammad Younis Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,881,SSC
+524,Sheikh Muhammad,Azhar Saifoor,Bannu,Out of Merit as per maintained Meritorious list,878,SSC
 525,Aneesa Karim,Karim ullah,Chitral,HSSC in progress,851,SSC
 526,Sharafat ullah,Sarwar Shah,Lakki Marwat,Private,986,FSC
 527,Naima mahjoor,haider Hussain,Chitral,HSSC in progress,870,SSC
@@ -788,26 +788,26 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 787,Hajra Bibi,Fazal Alam,Charsadda,Incomplete application,974,SSC
 788,Tanzeela Bibi,Attaullah,Charsadda,Father CNIC not attached,928,SSC
 789,Komal,Faridoon Khan,Peshawar,Father CNIC not attached,926,SSC
-790,Asad khan,Sardar Ali khan,Lakki Marwat,Out of Merit,908,ssC
-791,Rafi Ullah,Abdullah,Shangla,Out of Merit,944,SSC
-792,Manahil Bibi,Gul Siyar,Charsadda,Out of Merit,942,SSC
-793,Mehreen Bibi,Hassan khan,Charsadda,Out of Merit,937,SSC
-794,Ishraq Ahamad,Samand khan,kohat,Out of Merit,936,SSC
-795,Saba Noor,Amir Noshad,Shangla,Out of Merit,935,SSC
-796,Shehla Shah,Rahmat Shah,Charsadda,Out of Merit,933,SSC
-797,Rahat Hussain ,Shoukat,Shangla,Out of Merit,932,SSC
-798,Muhammad sajjad,Falak naz Khan,Lakki Marwat,Out of Merit,927,SSC
-799,Fawad Ahmad,Jamil Ahmad,Lakki Marwat,Out of Merit,925,SSC
-800,Neelam Bibi,habib kHan,Charsadda,Out of Merit,922,SSC
-801,Muneeba Bibi,Nisar Ahmad,Charsadda,Out of Merit,918,SSC
-802,Fazal Hanan,Fazal Subhan,Shangla,Out of Merit,915,SSC
-803,Siddiqa Bibi,Aman Ullah,Charsadda,Out of Merit,915,SSC
-804,Paghounda masood ,Masood khan ,Mardan,Out of Merit,912,SSC
-805,Fayaz Khan,Baram shahzada,Bannu,Out of Merit,908,SSC
-806,Ahmad Ali basir,Abdl Basir,Lakki Marwat,Out of Merit,905,SSC
-807,Liaba ,Abdul Ghafar,Charsadda,Out of Merit,905,SSc
-808,Shafiur Rehman,Abdur Rehman,Lakki Marwat,Out of Merit,901,SSc
-809,Haseena khan ,Muqaddar Khan,Charsadda,Out of Merit and no NIC domicile etc,884,SSC
+790,Asad khan,Sardar Ali khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,908,ssC
+791,Rafi Ullah,Abdullah,Shangla,Out of Merit as per maintained Meritorious list,944,SSC
+792,Manahil Bibi,Gul Siyar,Charsadda,Out of Merit as per maintained Meritorious list,942,SSC
+793,Mehreen Bibi,Hassan khan,Charsadda,Out of Merit as per maintained Meritorious list,937,SSC
+794,Ishraq Ahamad,Samand khan,kohat,Out of Merit as per maintained Meritorious list,936,SSC
+795,Saba Noor,Amir Noshad,Shangla,Out of Merit as per maintained Meritorious list,935,SSC
+796,Shehla Shah,Rahmat Shah,Charsadda,Out of Merit as per maintained Meritorious list,933,SSC
+797,Rahat Hussain ,Shoukat,Shangla,Out of Merit as per maintained Meritorious list,932,SSC
+798,Muhammad sajjad,Falak naz Khan,Lakki Marwat,Out of Merit as per maintained Meritorious list,927,SSC
+799,Fawad Ahmad,Jamil Ahmad,Lakki Marwat,Out of Merit as per maintained Meritorious list,925,SSC
+800,Neelam Bibi,habib kHan,Charsadda,Out of Merit as per maintained Meritorious list,922,SSC
+801,Muneeba Bibi,Nisar Ahmad,Charsadda,Out of Merit as per maintained Meritorious list,918,SSC
+802,Fazal Hanan,Fazal Subhan,Shangla,Out of Merit as per maintained Meritorious list,915,SSC
+803,Siddiqa Bibi,Aman Ullah,Charsadda,Out of Merit as per maintained Meritorious list,915,SSC
+804,Paghounda masood ,Masood khan ,Mardan,Out of Merit as per maintained Meritorious list,912,SSC
+805,Fayaz Khan,Baram shahzada,Bannu,Out of Merit as per maintained Meritorious list,908,SSC
+806,Ahmad Ali basir,Abdl Basir,Lakki Marwat,Out of Merit as per maintained Meritorious list,905,SSC
+807,Liaba ,Abdul Ghafar,Charsadda,Out of Merit as per maintained Meritorious list,905,SSc
+808,Shafiur Rehman,Abdur Rehman,Lakki Marwat,Out of Merit as per maintained Meritorious list,901,SSc
+809,Haseena khan ,Muqaddar Khan,Charsadda,Out of Merit as per maintained Meritorious list and no NIC domicile etc,884,SSC
 810,Furqan Ahmad ,Umar Jamal,Karak,Private Student of 2023,884,HSSC
 811,Shafi Ullah,Shah Mahmood,Bajaur,Ex Student of 2023 and Compart,973,HSSC
 812,Sulaiman Khan,Asal Khan,Bajaur,Ex Student of 2023 and Compart,860,HSSC
@@ -869,88 +869,88 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 868,Waqar Ahmad,Lal Faqir Khan,Mohmand,Incomplete Application,907,HSSC
 869,Shahzir Khan,Nawab Noor,Bajaur,Incomplete Application,937,HSSC
 870,Aftab Nawaz,Sher Nawaz,Peshawar,Ex Student and Compart,920,HSSC
-871,Rizwan Ullah,Saeed ur Rahman,Bajaur,Out of Merit,954,Matric
+871,Rizwan Ullah,Saeed ur Rahman,Bajaur,Out of Merit as per maintained Meritorious list,954,Matric
 872,Faheem Ullah,Said Muhammad,Bajaur,Ex Student and Compart,959,HSSC
 873,Yasir Arafat,Alamgir Khan,Bajaur,Did not take further admission,962,Intermediate
 874,Hilal Salar,Ahmad Jan,Bajaur,Did not take further admission,980,HSSC
-875,Haleema Badshah,Badshah ud Din,Bajaur,Out of Merit,988,Matric
+875,Haleema Badshah,Badshah ud Din,Bajaur,Out of Merit as per maintained Meritorious list,988,Matric
 876,Abubakar Sadiq,Badshah Rahman,Bajaur,Did not take further admission,1024,HSSC
-877,Zaid Ali,Liaqat Ali ,Bajaur,Out of Merit,1003,Matric
+877,Zaid Ali,Liaqat Ali ,Bajaur,Out of Merit as per maintained Meritorious list,1003,Matric
 878,Ali Khan,Didar Khan,Bajaur,No Form B and CNIC etc,1095,Matric
 879,Rowaid Ullah,Habib Said,Bajaur,Father CNIC missing,1075,Matric
-880,Farhat Ullah,Sher Muhammad,South Waziristan,Out of Merit,1073,Matric
-881,Irshad Ali,Sher Afzal,Bajaur,Out of Merit,1069,Matric
-882,Sabir Ullah,Ali Muhammad,Bajaur,Out of Merit,1068,Matric
-883,Muhammad Abubakar,Hazrat Muhammad,Bajaur,Out of Merit,1069,Matric
-884,Abid Ullah,Nawab Zada,Bajaur,Out of Merit,1068,Matric
-885,Muhammad Ismail,Khan Zada,Bajaur,Out of Merit,1066,Matric
-886,Muhammad Amjad,Rab Nawaz Khan,Bajaur,Out of Merit,1066,Matric
-887,Aman Khan,Israt Khan,Mohmand,Out of Merit,1066,Matric
-888,Kashif Ahmad,Shamshad Khan,Mohmand,Out of Merit,1066,Matric
-889,Ismail Khan,Said Muhammad,Bajaur,Out of Merit,822,HSSC
-890,Rizwan Ullah,Bakht Munir,Mohmand,Out of Merit,855,HSSC
-891,Bilal Ahmad,Sher Bahadar,Bajaur,Out of Merit,838,HSSC
-892,Ubaid Ullah,Allah Jan,South Waziristan,Out of Merit,866,HSSC
-893,Bilal Ahmad,Manaras Khan,Bajaur,Out of Merit,807,HSSC
-894,Zia Ullah,Alam Zaib,Bajaur,Out of Merit,826,HSSC
-895,Rahim Ullah,Sami Ullah,Bajaur,Out of Merit,854,HSSC
-896,Salah Uddin Ayubi,Mustaqeem Jan,Bajaur,Out of Merit,817,HSSC
-897,Muhammad yaseen,Fordil,Bajaur,Out of Merit,752,HSSC
+880,Farhat Ullah,Sher Muhammad,South Waziristan,Out of Merit as per maintained Meritorious list,1073,Matric
+881,Irshad Ali,Sher Afzal,Bajaur,Out of Merit as per maintained Meritorious list,1069,Matric
+882,Sabir Ullah,Ali Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,1068,Matric
+883,Muhammad Abubakar,Hazrat Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,1069,Matric
+884,Abid Ullah,Nawab Zada,Bajaur,Out of Merit as per maintained Meritorious list,1068,Matric
+885,Muhammad Ismail,Khan Zada,Bajaur,Out of Merit as per maintained Meritorious list,1066,Matric
+886,Muhammad Amjad,Rab Nawaz Khan,Bajaur,Out of Merit as per maintained Meritorious list,1066,Matric
+887,Aman Khan,Israt Khan,Mohmand,Out of Merit as per maintained Meritorious list,1066,Matric
+888,Kashif Ahmad,Shamshad Khan,Mohmand,Out of Merit as per maintained Meritorious list,1066,Matric
+889,Ismail Khan,Said Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,822,HSSC
+890,Rizwan Ullah,Bakht Munir,Mohmand,Out of Merit as per maintained Meritorious list,855,HSSC
+891,Bilal Ahmad,Sher Bahadar,Bajaur,Out of Merit as per maintained Meritorious list,838,HSSC
+892,Ubaid Ullah,Allah Jan,South Waziristan,Out of Merit as per maintained Meritorious list,866,HSSC
+893,Bilal Ahmad,Manaras Khan,Bajaur,Out of Merit as per maintained Meritorious list,807,HSSC
+894,Zia Ullah,Alam Zaib,Bajaur,Out of Merit as per maintained Meritorious list,826,HSSC
+895,Rahim Ullah,Sami Ullah,Bajaur,Out of Merit as per maintained Meritorious list,854,HSSC
+896,Salah Uddin Ayubi,Mustaqeem Jan,Bajaur,Out of Merit as per maintained Meritorious list,817,HSSC
+897,Muhammad yaseen,Fordil,Bajaur,Out of Merit as per maintained Meritorious list,752,HSSC
 898,Shaukat Ullah,Taj Wali Khan,Bajaur,DAE in Progress,819/1150,Diploma in Associate Engineer
-899,Bilal Ahmad,Gul Yousaf,Bajaur,Out of Merit,884,HSSC
-900,Muhammad Ghafar Khan,Rasool Jan,Bannu,Out of Merit,798,HSSC
-901,Saddam Khan,Zia ul Haq,Bajaur,Out of Merit,915,Matric
-902,Mudassir Khan,Kifayat Ullah,Bajaur,Out of Merit,909,Matric
-903,Naeem Ullah,Gul Wahab,Bajaur,Out of Merit,1064,Bajaur
-904,Alauddin,Wahid Jan,Bajaur,Out of Merit,1064,Matric
-905,Sara Bibi,Nawab Zada,Bajaur,Out of Merit,1061,Matric
-906,Waqas Ahmad,Abdul Qayum,Bajaur,Out of Merit,1059,Matric
-907,Shehzad Ahmed,Muhammad Ayaz Khan,Mohmand,Out of Merit,1059,Matric
-908,Hira Bibi,Muhammad Shoaib,Bajaur,Out of Merit,1057,Matric
-909,Rizwan Ullah,Gul Zada,Bajaur,Out of Merit,1053,Matric
-910,Muhammad Asif,Fazal Maula,Bajaur,Out of Merit,1053,Matric
-911,Muhammad Abbas,Saidaram Khan,Bajaur,Out of Merit,1051,Matric
-912,Khalid Khan,Muhammad Khan,Bajaur,Out of Merit,1046,Matric
-913,Malak Anis ur Rehman,Malak Hassan,Bajaur,Out of Merit,1045,Matric
-914,Haroon Rashid ,Habib Ullah,Bajaur,Out of Merit,1044,HSSC
-915,Rahat Ullah,Muhammad Said,Bajaur,Out of Merit,1044,Matric
-916,Noor Ullah,Zahir Shah,Bajaur,Out of Merit,1042,Matric
-917,Rooh Ullah,Malang Jan,Bajaur,Out of Merit,1041,Matric
-918,Ali Dad,Khan Dad,Khyber,Out of Merit,1041,Matric
-919,Jawad Ahmed,Fazal Wahid,Bajaur,Out of Merit,954,Matric
-920,Nisar Ahmad,Said Badshah,Bajaur,Out of Merit,892,Matric
-921,Raza Ullah,Hamid Ullah,Bajaur,Out of Merit,758,Matric
-922,Sohail Khan,Muhammad Hakim,Bajaur,Out of Merit,968,Matric
-923,Rahid Ullah,Khan Muhammad,Bajaur,Out of Merit,922,Matric
-924,Inam Ullah,Liaqat Ali,Bajaur,Out of Merit,1034,Matric
+899,Bilal Ahmad,Gul Yousaf,Bajaur,Out of Merit as per maintained Meritorious list,884,HSSC
+900,Muhammad Ghafar Khan,Rasool Jan,Bannu,Out of Merit as per maintained Meritorious list,798,HSSC
+901,Saddam Khan,Zia ul Haq,Bajaur,Out of Merit as per maintained Meritorious list,915,Matric
+902,Mudassir Khan,Kifayat Ullah,Bajaur,Out of Merit as per maintained Meritorious list,909,Matric
+903,Naeem Ullah,Gul Wahab,Bajaur,Out of Merit as per maintained Meritorious list,1064,Bajaur
+904,Alauddin,Wahid Jan,Bajaur,Out of Merit as per maintained Meritorious list,1064,Matric
+905,Sara Bibi,Nawab Zada,Bajaur,Out of Merit as per maintained Meritorious list,1061,Matric
+906,Waqas Ahmad,Abdul Qayum,Bajaur,Out of Merit as per maintained Meritorious list,1059,Matric
+907,Shehzad Ahmed,Muhammad Ayaz Khan,Mohmand,Out of Merit as per maintained Meritorious list,1059,Matric
+908,Hira Bibi,Muhammad Shoaib,Bajaur,Out of Merit as per maintained Meritorious list,1057,Matric
+909,Rizwan Ullah,Gul Zada,Bajaur,Out of Merit as per maintained Meritorious list,1053,Matric
+910,Muhammad Asif,Fazal Maula,Bajaur,Out of Merit as per maintained Meritorious list,1053,Matric
+911,Muhammad Abbas,Saidaram Khan,Bajaur,Out of Merit as per maintained Meritorious list,1051,Matric
+912,Khalid Khan,Muhammad Khan,Bajaur,Out of Merit as per maintained Meritorious list,1046,Matric
+913,Malak Anis ur Rehman,Malak Hassan,Bajaur,Out of Merit as per maintained Meritorious list,1045,Matric
+914,Haroon Rashid ,Habib Ullah,Bajaur,Out of Merit as per maintained Meritorious list,1044,HSSC
+915,Rahat Ullah,Muhammad Said,Bajaur,Out of Merit as per maintained Meritorious list,1044,Matric
+916,Noor Ullah,Zahir Shah,Bajaur,Out of Merit as per maintained Meritorious list,1042,Matric
+917,Rooh Ullah,Malang Jan,Bajaur,Out of Merit as per maintained Meritorious list,1041,Matric
+918,Ali Dad,Khan Dad,Khyber,Out of Merit as per maintained Meritorious list,1041,Matric
+919,Jawad Ahmed,Fazal Wahid,Bajaur,Out of Merit as per maintained Meritorious list,954,Matric
+920,Nisar Ahmad,Said Badshah,Bajaur,Out of Merit as per maintained Meritorious list,892,Matric
+921,Raza Ullah,Hamid Ullah,Bajaur,Out of Merit as per maintained Meritorious list,758,Matric
+922,Sohail Khan,Muhammad Hakim,Bajaur,Out of Merit as per maintained Meritorious list,968,Matric
+923,Rahid Ullah,Khan Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,922,Matric
+924,Inam Ullah,Liaqat Ali,Bajaur,Out of Merit as per maintained Meritorious list,1034,Matric
 925,Muhammad Adil,Alaf Gul,Charsadda,The Student is not a bonafide resident of District Khyber,1035,Matric
-926,Shoaib Khan,Naseeb Jan,Bajaur,Out of Merit,1032,Matric
-927,Hazrat Ullah,Shaukat Ali,Bajaur,Out of Merit,1030,Matric
-928,Abdul Shakoor,Taj Muhammad,Bajaur,Out of Merit,1036,Matric
-929,Mumraz Khan,Malang Jan,Bajaur,Out of Merit,1037,Matric
-930,Saliman Khan,Muhammad Ishaq,Bajaur,Out of Merit,1038,Matric
-931,Muhammad Hamza,Muhammad Yaqub Khan,Bajaur,Out of Merit,1039,Matric
-932,Ibad Ullah,Musharaf Khan,Bajaur,Out of Merit,1040,Matric
-933,Manahel Ali,Allah Noor,Tank,Out of Merit,972,Matric
-934,Rabeen Ullah,Noor Rehman,South Waziristan,Out of Merit,1017,Matric
-935,Usman Ali ,Abdul Qayum Khan,Bajaur,Out of Merit,1025,Matric
-936,Zabih Ullah,Gul Rasool,Bajaur,Out of Merit,1025,Matric
-937,Sajid Ullah,Said Ayoub Khan,Bajaur,Out of Merit,1011,Matric
-938,Hanzala Khan,Pacha Gul,Bajaur,Out of Merit,1008,Matric
-939,Ibad Ullah,Areen Khan,Bajaur,Out of Merit,1001,Matric
-940,Nazeeb Ullah,Sadbar Khan,Bajaur,Out of Merit,1004,Matric
-941,Zabih Ullah,Masaud Khan,Bajaur,Out of Merit,1028,Matric
-942,Muhammad Kamran,Fazal Muhammad,Bajaur,Out of Merit,1036,Matric
-943,Amir Khatam,Sahib Khan,Bajaur,Out of Merit,988,Matric
-944,Javid Ullah,Rahman Ullah,Bajaur,Out of Merit,970,Matric
-945,Usman Ali,Muhammad Ashraf,Bajaur,Out of Merit,945,Matric
-946,Liaqat Ali,Muzafar Khan,Bajaur,Out of Merit,919,Matric
-947,Mihran Khan,Anwar Zeb Khan,Bajaur,Out of Merit,980,Matric
-948,Abdur Rauf,Yousaf Khan,Mohmand,Out of Merit,857,Matric
+926,Shoaib Khan,Naseeb Jan,Bajaur,Out of Merit as per maintained Meritorious list,1032,Matric
+927,Hazrat Ullah,Shaukat Ali,Bajaur,Out of Merit as per maintained Meritorious list,1030,Matric
+928,Abdul Shakoor,Taj Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,1036,Matric
+929,Mumraz Khan,Malang Jan,Bajaur,Out of Merit as per maintained Meritorious list,1037,Matric
+930,Saliman Khan,Muhammad Ishaq,Bajaur,Out of Merit as per maintained Meritorious list,1038,Matric
+931,Muhammad Hamza,Muhammad Yaqub Khan,Bajaur,Out of Merit as per maintained Meritorious list,1039,Matric
+932,Ibad Ullah,Musharaf Khan,Bajaur,Out of Merit as per maintained Meritorious list,1040,Matric
+933,Manahel Ali,Allah Noor,Tank,Out of Merit as per maintained Meritorious list,972,Matric
+934,Rabeen Ullah,Noor Rehman,South Waziristan,Out of Merit as per maintained Meritorious list,1017,Matric
+935,Usman Ali ,Abdul Qayum Khan,Bajaur,Out of Merit as per maintained Meritorious list,1025,Matric
+936,Zabih Ullah,Gul Rasool,Bajaur,Out of Merit as per maintained Meritorious list,1025,Matric
+937,Sajid Ullah,Said Ayoub Khan,Bajaur,Out of Merit as per maintained Meritorious list,1011,Matric
+938,Hanzala Khan,Pacha Gul,Bajaur,Out of Merit as per maintained Meritorious list,1008,Matric
+939,Ibad Ullah,Areen Khan,Bajaur,Out of Merit as per maintained Meritorious list,1001,Matric
+940,Nazeeb Ullah,Sadbar Khan,Bajaur,Out of Merit as per maintained Meritorious list,1004,Matric
+941,Zabih Ullah,Masaud Khan,Bajaur,Out of Merit as per maintained Meritorious list,1028,Matric
+942,Muhammad Kamran,Fazal Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,1036,Matric
+943,Amir Khatam,Sahib Khan,Bajaur,Out of Merit as per maintained Meritorious list,988,Matric
+944,Javid Ullah,Rahman Ullah,Bajaur,Out of Merit as per maintained Meritorious list,970,Matric
+945,Usman Ali,Muhammad Ashraf,Bajaur,Out of Merit as per maintained Meritorious list,945,Matric
+946,Liaqat Ali,Muzafar Khan,Bajaur,Out of Merit as per maintained Meritorious list,919,Matric
+947,Mihran Khan,Anwar Zeb Khan,Bajaur,Out of Merit as per maintained Meritorious list,980,Matric
+948,Abdur Rauf,Yousaf Khan,Mohmand,Out of Merit as per maintained Meritorious list,857,Matric
 949,Alina Arif,Muhammad Arif Khan,Lakki Marwat,Deficiency of Domicile and CNIC etc,885,HSSC
 950,Areesh Aftab,Aftab Ahmad,Lakki Marwat,Deficiency of Domicile and CNIC etc,889,HSSC
-951,Abdul Wahid,Shah Muslim,Bajaur,Out of Merit,1062,Matric
-952,Waqas Ahmad,Gull Hasan,Bajaur,Out of Merit,955,Matric
+951,Abdul Wahid,Shah Muslim,Bajaur,Out of Merit as per maintained Meritorious list,1062,Matric
+952,Waqas Ahmad,Gull Hasan,Bajaur,Out of Merit as per maintained Meritorious list,955,Matric
 953,Zainab Aamir,Aamir Mughal,Peshawar,Private and No DMC,920,HSSC
 954,Zulkifal Ishaq,Muhammad Ishaq,Mardan,Private Student,864,Intermediate
 955,Muhammad Ismail,Haider Zaman,Peshawar,Irrelevant Attestation,768,HSSC
@@ -967,7 +967,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 966,Inayat Ullah,Israr Ullah,Mardan,Student of Fizia Degree College (Private Institution),973,Matric
 967,Muhammad Hamad,Farid Ullah,Peshawar,2022 Student,681,HSSC
 968,Zainab Waseem Abbasi,aseem Ahmed Abbasi,Abbottabad,2023 Student,807,HSSC
-969,Nahia,Nazir Bacha,Buner,Out of Merit and Improper Affidavit,894,Matric
+969,Nahia,Nazir Bacha,Buner,Out of Merit as per maintained Meritorious list and Improper Affidavit,894,Matric
 970,Muhammad Roman,Aziz ur Rehman,Lakki Marwat,2023 Student,736,HSSC
 971,Asif Ullah,Muhammad Layaq Said,Dir Upper,No Affidavit,771,Matric
 972,Yasir Amin,Muhammad Amin,Dir Upper,No Affidavit,1023,Matric
@@ -985,7 +985,7 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 984,Haseena Alam,Ameer Alam,Lakki Marwat,Improper Attestation,924,Matric
 985,Muhammad Usman,Sahib Gul,Malakand,Private Student,1069,Matric
 986,Alisha Akhtar,Ghulam Hur,Lakki Marwat,No Attestation,885,HSSC
-987,Muskan Islam,Muhammad Islam,Malakand,Out of Merit,835,HSSC
+987,Muskan Islam,Muhammad Islam,Malakand,Out of Merit as per maintained Meritorious list,835,HSSC
 988,Romana Rauf,Abdur Rauf Khan,Lakki Marwat,Irrelevant Attestation,925,HSSC
 989,Muneeba Bibi,Muhammad Farooq,Swat,2022 student and Improper Affidavit,896,Intermediate
 990,Aftab Ali,Sana Gul,Buner,CNICs and Affidavit Deficiency,950,Intermediate
@@ -995,10 +995,10 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 994,Nasar Hayat,Umar Hayat,Swat,Private,878,Matric
 995,Irshad Ullah,Said Rasool,Lakki Marwat,Irrelevant Attestation,961,Matric
 996,Lazim Khan,Matin,Buner,CNIC and Affidavit deficiency,967,Intermediate
-997,Mehran Akbar,Fazal Mehmood,Bajaur,Out of Merit,793,HSSC
-998,Ulfat Bibi,Amir Muhammad,Bajaur,Out of Merit,711,Matric
-999,Raqim Ullah,Khan Munir,Bajaur,Out of Merit,870,HSSC
-1000,Mehak Rebqa,Waris Masih Khokhar,Mohmand,Out of Merit,747,HSSC
+997,Mehran Akbar,Fazal Mehmood,Bajaur,Out of Merit as per maintained Meritorious list,793,HSSC
+998,Ulfat Bibi,Amir Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,711,Matric
+999,Raqim Ullah,Khan Munir,Bajaur,Out of Merit as per maintained Meritorious list,870,HSSC
+1000,Mehak Rebqa,Waris Masih Khokhar,Mohmand,Out of Merit as per maintained Meritorious list,747,HSSC
 1001,Saima Noureen,Ahmad Baseer,Karak,Ex Private and Compart,1006,HSSC
 1002,Sami ur Rehman,Hazrat Ali,Dir Upper,Ex Student Compart and Improper Attestation,898,HSSC
 1003,Laiba Muthahir Shah,Muthahir Shah,Charsadda,No Affidavit,903,HSSC
@@ -1041,8 +1041,8 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1040,mustafa Ali Qureshi,Mazhar Ali Qureshi,Peshawar,Private Student and No Affidavit,1009,HSSC
 1041,Aayan Ali,Jan Wali,Peshawar,Private Student and No Affidavit,966,HSSC
 1042,Muzamil Khan,Muhammad Sohail,Bannu,2023 Student,911,HSSC
-1043,Muhammad Ihsan Ullah,Dawar Khan,Bajaur,Out of Merit,799,HSSC
-1044,Muhammad Hamza Afridi,Khayat Syed Khan Afridi,Peshawar,Out of Merit,747,HSSC
+1043,Muhammad Ihsan Ullah,Dawar Khan,Bajaur,Out of Merit as per maintained Meritorious list,799,HSSC
+1044,Muhammad Hamza Afridi,Khayat Syed Khan Afridi,Peshawar,Out of Merit as per maintained Meritorious list,747,HSSC
 1045,Muhammad Sudais ,Abdul Qadeer Khan,Lakki Marwat,2023 Student and Improver,959,HSSC
 1046,Muhammad Shabeer,Muhammad Bashir,Charsadda,No Affidavit,1108,Matric
 1047,Nadar Ali,Aqal Zeb,Shangla,Improper Affidavit and CNIC deficiency,914,Matric
@@ -1144,190 +1144,182 @@ Serial,Student Name,Father Name,Address,Remarks,Marks,Class
 1143,Ayesha Noor,Noor Muhammad,D.I Khan,2022 student and No Affidavit,952,HSSC
 1144,Hafsa Nazir,Nazir Muhammad,Lakki Marwat,Irrelevant Attestation (Affidavit),954,Matric
 1145,Muhammad Afnan,Mir Sahib Khan,Tank,No DMC and Affidavit etc,816,SSC/HSSC
-1146,Nida Gul,Sartaj Gul,Charsadda,CNIC, Attestation unreadable,993,HSSC
+1146,Nida Gul,Sartaj Gul,Charsadda,No CNIC and Attestation unreadable,993,HSSC
 1147,Aleena Rahman,Noor Rahman,Charsadda,Private,1017,HSSC
 1148,Aleeba,Sadat Mand,Charsadda,Private,996,HSSC
 1149,Zulaikha Bibi,Sareeh Ullah,Charsadda,Private,1011,HSSC
-1150,Shazia Begum,Shamoz Khan,Charsadda,2022 student,773,HSSC
-1151,Yumna Siraj,Muhammad Siraj,Charsadda,Ex Student, Private, Compart,989,HSSC
+1150,Shazia Begum,Shamoz Khan,Charsadda and 2022 student,773,HSSC
+1151,Yumna Siraj,Muhammad Siraj,Charsadda,Ex Student Private and Compart,989,HSSC
 1152,Hajra,Rahman Ullah,Charsadda,2023 Student,749,HSSC
-1153,Musarat Shaheen,Mashal Khan,Lakki Marwat,No CNIC/Domicile,830,HSSC
+1153,Musarat Shaheen,Mashal Khan,Lakki Marwat,No CNIC and Domicile,830,HSSC
 1154,Spogmai Ali,Ali Bahadar,Charsadda,CNIC Deficiency,932,HSSC
 1155,Nayab,Khaista Rahman,Charsadda,Improper Attestation,902,HSSC
-1156,Salma Begum,Khan Zareen,Charsadda,Ex Student of 2024, Compart,841,HSSC
+1156,Salma Begum,Khan Zareen,Charsadda,Ex Student of 2024 and Compart,841,HSSC
 1157,Alishba Sardar,Syed Sardar Shah,Charsadda,Improper Affidavit,819,HSSC
 1158,Halima Syed,Syed Muhammad Shah,Charsadda,Improper Affidavit,838,HSSC
-1159,Anosha Bibi,Sajjad Ahmad,Charsadda,Private, Compart,1071,HSSC
+1159,Anosha Bibi,Sajjad Ahmad,Charsadda,Private Student and Compart,1071,HSSC
 1160,Aiman Bibi,Salah ud Din,Tank,Irrelevant Attestation (Affidavit),854,Matric
 1161,Javairia Kausar ,Waheed Ali Shah,Nowshera,No Affidavit,1113,Matric
-1162,Maryam Khan,Ejaz Khan,Haripur,Received after due date. Photo, Domicile, Private,1075,HSSC
+1162,Maryam Khan,Ejaz Khan,Haripur,Received after due date and deficiency of Photo and Domicile as well as Private student,1075,HSSC
 1163,Salah Uddin,Zardad Khan,Lakki Marwat,2023 student,1013,Matric
-1164,Mehreen Bibi,Muhammad Shair,Mansehra,SSC 2023 under progress, Domicile, CNIC,498,Matric
-1165,Jalwa Khan,Ishtiaq Ahmad,Swabi,Domicile, CNIC, Affidavit,769,Matric
+1164,Mehreen Bibi,Muhammad Shair,Mansehra,SSC 2023 under progress and deficiency of Domicile and CNIC,498,Matric
+1165,Jalwa Khan,Ishtiaq Ahmad,Swabi,Domicile CNIC and Affidavit deficiency,769,Matric
 1166,Majeed Ullah,Baba ud Din,Swat,Irrelevant Affidavit,833,Intermediate
-1167,Ihsan ud Din,Gul Din,Shangla,Domicile, CNIC, Affidavit,1011,Matric
+1167,Ihsan ud Din,Gul Din,Shangla,Domicile CNIC and Affidavit deficiency,1011,Matric
 1168,Sana Bibi,Janzada,Charsadda,Improver,978,Matric
 1169,Sana Ara,Muhammad Rafiq,Lakki Marwat,Irrelevant Attestation (Affidavit),897,HSSC
 1170,Hafsa Bibi,Misbah ud Din,Nowshera,No Affidavit,1039,Matric
-1171,Aman Ullah,Faraz Khan,Bajaur,Out of Merit,986,Matric
-1172,Naseer Ullah,Jan Badshah,Bajaur,Out of Merit,1029,Matric
-1173,Hanif Ullah,Aman Ullah,Bajaur,Out of Merit,1028,Matric
-1174,Luqman Khan,Sahib Rahman,Mohmand,Out of Merit,1027,Matric
-1175,Kamran Khan,Jan Muhammad,Bajaur,Out of Merit,1026,Matric
-1176,Sultan Zeb,Taj Mir Khan,Bajaur,Out of Merit,1026,Matric
-1177,Sana Zaman,Qamar Zaman,Bajaur,Out of Merit,1023,Matric
-1178,Zia Ullah,Yousaf Khan,Bajaur,Out of Merit,1023,Matric
-1179,Neelma Noor,Allah Noor Khan,S. Waziristan,Out of Merit,1022,Matric
-1180,Marwan Ahmad,Abdur Rahman,Bajaur,Out of Merit,1021,Matric
-1181,Kashif Ullah,Rahim Ullah,Bajaur,Out of Merit,1021,Matric
-1182,Aziz Ullah,Anwar Said,Bajaur,Out of Merit,1019,Matric
-1183,Aman Ullah,Raj Muhammad,Bajaur,Out of Merit,1018,Matric
-1184,Nihayat Rifat ,Ayaz Khan,Bajaur,Out of Merit,1017,Matric
-1185,Salma Bibi,Inayat ur Rehman,Bajaur,Out of Merit,1016,Matric
-1186,Idrees Khan,Khaista Sultan,Bajaur,Out of Merit,1016,Matric
-1187,Amina Bibi,Masih Ullah,Bajaur,Out of Merit,1015,Matric
-1188,Irshad Ullah,Islam Gul,Bajaur,Out of Merit,1013,Matric
-1189,Nasir Ahmad,Sher Ahmad,Bajaur,Out of Merit,1012,Matric
-1190,Raqib Ullah,Faiz ur Rahman,Bajaur,Out of Merit,1012,Matric
-1191,Siraj Uddin,Ihsan Ullah,Bajaur,Out of Merit,1011,Matric
-1192,Faheem Khan,Khan Badshah,Bajaur,Out of Merit,1011,Matric
-1193,Musa Khan,Muhammad Hashim,Mohmand,Out of Merit,1011,Matric
-1194,Farishta Khan,Yar Zaman Khan,Bajaur,Out of Merit,1010,Matric
-1195,Sohail Ahmad,Sahibul Haq,Bajaur,Out of Merit,1010,Matric
-1196,Kaleem Ullah,Gul Habib Jan,Bajaur,Out of Merit,1010,Matric
-1197,Waqas Ahmad,Amani Khan,Mohmand,Out of Merit,1008,Matric
-1198,Muhammad Huzifa,Qadim Khan,Bajaur,Out of Merit,1008,Matric
-1199,Usman Ghani,Akhtar Gul,Mohmand,Out of Merit,1004,Matric
-1200,Farhat Ullah,Muhammad Rahim ,Bajaur,Out of Merit,1004,Matric
-1201,Haroon Rashid ,Gulzar Ahmad,Bajaur,Out of Merit,1003,Matric
-1202,Abubakar Sidique,Aziz Ullah,Bajaur,Out of Merit,1003,Matric
-1203,Abid Ali,Naseer Ullah,Mohmand,Out of Merit,1002,Matric
-1204,Roman Khan,Abdul Hakim,Bajaur,Out of Merit,897,Matric
-1205,Hansa Bibi,Sher Afzal Khan,Bajaur,Out of Merit,843,Matric
-1206,Irshad Khan,Tajbar Khan,Bajaur,Out of Merit,872,Matric
-1207,Sana Bibi,Gul Habib Jan,Bajaur,Out of Merit,894,Matric
-1208,Asma Aman,Aman ullah khan ,Bajaur,Out of Merit,858,Matric
-1209,Aleena Rashid,Muhammad Rashid,Bajaur,Out of Merit,853,Matric
-1210,Marwa Gul,Gul Zada,Bajaur,Out of Merit,822,Matric
-1211,Sadiqa Bibi,Qabil Said,Bajaur,Out of Merit,812,Matric
-1212,Waheed Ullah,Shahab Uddin,Bajaur,Out of Merit,779,Matric
-1213,Ayesha Bibi,Abdul Hameed,Bajaur,Out of Merit,756,Matric
-1214,Sajid Khan,Ghulam Noor Khan,Bajaur,Out of Merit,749,Matric
-1215,Abdur Rahman,Abdul Mastan,Bajaur,Out of Merit,725,Matric
-1216,Asma Begum,Rahmat Gul,Bajaur,Out of Merit,734,Matric
-1217,Husna Bibi ,Abdul Wali Khan,Bajaur,Out of Merit,837,Matric
-1218,Hazrat Younas,Suleman Khan,Bajaur,Out of Merit,741,Matric
-1219,Tahira Rahim,Muhammad Rahim ,Bajaur,Out of Merit,884,Matric
-1220,Hafsa Bibi,Niaz Muhammad,Bajaur,Out of Merit,755,Matric
-1221,Shafi Ullah,Rahman Said,Bajaur,Out of Merit,755,Matric
-1222,Saima Rahman,Rahmani Gul,Bajaur,Out of Merit,997,Matric
-1223,Usman Zia,Zia ul Haq,Bajaur,Out of Merit,993,Matric
-1224,Sumaira Khan,Muhammad Ayaz,Bajaur,Out of Merit,993,Matric
-1225,Murad Ali,Fazal Qadar,Bajaur,Out of Merit,992,Matric
-1226,Nijat Ullah,Sami Ullah,Bajaur,Out of Merit,991,Matric
-1227,Shahid Ullah,Abdul Qayum,Bajaur,Out of Merit,991,Matric
-1228,Muhammad Sajjad,Muhammad Ishaq,Bajaur,Out of Merit,989,Matric
-1229,Shafi Ullah,Said Hassan,Bajaur,Out of Merit,987,Matric
-1230,Miftah Uddin,Sikandar,Bajaur,Out of Merit,986,Matric
-1231,Asia Bibi,Khaista Bibi,Bajaur,Out of Merit,986,Matric
-1232,Nazia Shah,Shah Wazir Khan,Bajaur,Out of Merit,984,Matric
-1233,Akmal Khan,Muhammad Ghufran,Bajaur,Out of Merit,978,Matric
-1234,Bilal Khan,Sher Muhammad,Bajaur,Out of Merit,978,Matric
-1235,Muhammad Zakria ,Muhammad Ibrar,Bajaur,Out of Merit,977,Matric
-1236,Salah Uddin,Ghafoor,Bajaur,Out of Merit,977,Matric
-1237,Faiza Iqbal,Muhammad Iqbal,Bajaur,Out of Merit,973,Matric
-1238,Tariq Jameel,Muhammad Zada,Bajaur,Out of Merit,969,Matric
-1239,Nisar Uddin,Zia ur Rehman,Bajaur,Out of Merit,968,Matric
-1240,Nimra Bibi,Mir Wali Khan,Bajaur,Out of Merit,964,Matric
-1241,Huma Bibi,Yar Muhammad Said,Bajaur,Out of Merit,962,Matric
-1242,Fozia Asleem ,Asleem Khan,Bajaur,Out of Merit,962,Matric
-1243,Talha Yousaf,Hazrat Yousaf,Bajaur,Out of Merit,961,Matric
-1244,Faisal Rahman,Sher Muhammad,Bajaur,Out of Merit,960,Matric
-1245,Tawheed Zia,Zia ul Haq,Bajaur,Out of Merit,954,Matric
-1246,Sheema Bibi,Muhammad Tayyab,Bajaur,Out of Merit,950,Matric
-1247,Sajjad Ahmad,Riaz,Bajaur,Out of Merit,949,Matric
-1248,Irshad Ahmad,Bacha Muhammad,Bajaur,Out of Merit,948,Matric
-1249,Salman Khan,Abdur Rauf Khan,Bajaur,Out of Merit,947,Matric
-1250,Yasar Khan,Abdul Ghani,Bajaur,Out of Merit,944,Matric
-1251,Zahid Khan,Subhan Khan,Bajaur,Out of Merit,944,Matric
-1252,Sundas Shah,Khan Shah,Bajaur,Out of Merit,942,Matric
-1253,Uzma Mughal,Mughal Khan,Bajaur,Out of Merit,940,Matric
-1254,Kainat Bibi,Niaz Wali Khan,Bajaur,Out of Merit,938,Matric
-1255,Hikmat Ullah,Sher Gul,Khyber,Out of Merit,935,Matric
-1256,Saeeda Begum,Fazal Wadood,Bajaur,Out of Merit,935,Matric
-1257,Masih Ullah,Umar Badshah,Bajaur,Out of Merit,931,Matric
-1258,Salah Uddin,Javed Khan,Bajaur,Out of Merit,927,Matric
-1259,Nabia Ali,Ali Bahadar,Bajaur,Out of Merit,927,Matric
-1260,Bushra Bibi,Wali Khan,Bajaur,Out of Merit,925,Matric
-1261,Taskeen Jamil,Jamil Khan,Bajaur,Out of Merit,921,Matric
-1262,Waqas Khan,Wazir Khan,Bajaur,Out of Merit,917,Matric
-1263,Sajjad Ali ,Bakht Zada,Bajaur,Out of Merit,917,Matric
-1264,Ziba Habib,Noor Habib Jan,Bajaur,Out of Merit,916,Matric
-1265,Habib Ullah,Badshah Wazir,Bajaur,Out of Merit,914,Matric
-1266,Abdullah,Muhammad Ullah,Bajaur,Out of Merit,913,Matric
-1267,Jalal Uddin,Ihsan Ullah,Bajaur,Out of Merit,910,Matric
-1268,Kalsoom Said Hakeem,Said Hakeem,Bajaur,Out of Merit,908,Matric
-1269,Sheema Bibi,Masta Khan,Bajaur,Out of Merit,886,Matric
-1270,Kainat Bibi,Sardar Hussain,Bajaur,Out of Merit,754,Matric
-1271,Laiba Khan,Sar Zamin Khan,Bajaur,Out of Merit,841,Matric
-1272,Imdad Ul Haq,Jehan Zeb,Bajaur,Out of Merit,904,Matric
-1273,Ashraf Ullah,Hidayat Ullah,N. Waziristan,Out of Merit,815,Matric
-1274,Naheen Bibi,Fazal Rahim,Bajaur,Out of Merit,875,Matric
-1275,Farida Bibi,Noor Haleem Jan,Bajaur,Out of Merit,968,Matric
-1276,Uzma Bibi,Muhammad Zamin,Bajaur,Out of Merit,873,Matric
-1277,Sapna Bibi,Khan Zaman,Bajaur,Out of Merit,881,Matric
-1278,Zahoor Ahmad,Naimat Ullah,N. Waziristan,Out of Merit,890,Matric
-1279,Rusheed Ullah,Badshah Zada,Bajaur,Out of Merit,992,Matric
-1280,Sana Bibi,Muhammad Jan,Bajaur,Out of Merit,759,Matric
-1281,Khansa Khalil Ahmad,Khalil Ahmad,N. Waziristan,Out of Merit,867,Matric
-1282,Alia Noor Aslam,Noor Aslam,Tank,Out of Merit,949,Matric
-1283,Abdus Samad,Wazir Rahman,Bajaur,Out of Merit,951,Matric
-1284,Aziz Ullah,Shah Wazir Khan,Bajaur,Out of Merit,806,Matric
-1285,Tanzeela Gula Khan,Gula Khan,S. Waziristan,Out of Merit,975,Matric
-1286,Humaira Gula Khan,Gula Khan,S. Waziristan,Out of Merit,954,Matric
+1171,Aman Ullah,Faraz Khan,Bajaur,Out of Merit as per maintained Meritorious list,986,Matric
+1172,Naseer Ullah,Jan Badshah,Bajaur,Out of Merit as per maintained Meritorious list,1029,Matric
+1173,Hanif Ullah,Aman Ullah,Bajaur,Out of Merit as per maintained Meritorious list,1028,Matric
+1174,Luqman Khan,Sahib Rahman,Mohmand,Out of Merit as per maintained Meritorious list,1027,Matric
+1175,Kamran Khan,Jan Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,1026,Matric
+1176,Sultan Zeb,Taj Mir Khan,Bajaur,Out of Merit as per maintained Meritorious list,1026,Matric
+1177,Sana Zaman,Qamar Zaman,Bajaur,Out of Merit as per maintained Meritorious list,1023,Matric
+1178,Zia Ullah,Yousaf Khan,Bajaur,Out of Merit as per maintained Meritorious list,1023,Matric
+1179,Neelma Noor,Allah Noor Khan,S. Waziristan,Out of Merit as per maintained Meritorious list,1022,Matric
+1180,Marwan Ahmad,Abdur Rahman,Bajaur,Out of Merit as per maintained Meritorious list,1021,Matric
+1181,Kashif Ullah,Rahim Ullah,Bajaur,Out of Merit as per maintained Meritorious list,1021,Matric
+1182,Aziz Ullah,Anwar Said,Bajaur,Out of Merit as per maintained Meritorious list,1019,Matric
+1183,Aman Ullah,Raj Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,1018,Matric
+1184,Nihayat Rifat ,Ayaz Khan,Bajaur,Out of Merit as per maintained Meritorious list,1017,Matric
+1185,Salma Bibi,Inayat ur Rehman,Bajaur,Out of Merit as per maintained Meritorious list,1016,Matric
+1186,Idrees Khan,Khaista Sultan,Bajaur,Out of Merit as per maintained Meritorious list,1016,Matric
+1187,Amina Bibi,Masih Ullah,Bajaur,Out of Merit as per maintained Meritorious list,1015,Matric
+1188,Irshad Ullah,Islam Gul,Bajaur,Out of Merit as per maintained Meritorious list,1013,Matric
+1189,Nasir Ahmad,Sher Ahmad,Bajaur,Out of Merit as per maintained Meritorious list,1012,Matric
+1190,Raqib Ullah,Faiz ur Rahman,Bajaur,Out of Merit as per maintained Meritorious list,1012,Matric
+1191,Siraj Uddin,Ihsan Ullah,Bajaur,Out of Merit as per maintained Meritorious list,1011,Matric
+1192,Faheem Khan,Khan Badshah,Bajaur,Out of Merit as per maintained Meritorious list,1011,Matric
+1193,Musa Khan,Muhammad Hashim,Mohmand,Out of Merit as per maintained Meritorious list,1011,Matric
+1194,Farishta Khan,Yar Zaman Khan,Bajaur,Out of Merit as per maintained Meritorious list,1010,Matric
+1195,Sohail Ahmad,Sahibul Haq,Bajaur,Out of Merit as per maintained Meritorious list,1010,Matric
+1196,Kaleem Ullah,Gul Habib Jan,Bajaur,Out of Merit as per maintained Meritorious list,1010,Matric
+1197,Waqas Ahmad,Amani Khan,Mohmand,Out of Merit as per maintained Meritorious list,1008,Matric
+1198,Muhammad Huzifa,Qadim Khan,Bajaur,Out of Merit as per maintained Meritorious list,1008,Matric
+1199,Usman Ghani,Akhtar Gul,Mohmand,Out of Merit as per maintained Meritorious list,1004,Matric
+1200,Farhat Ullah,Muhammad Rahim ,Bajaur,Out of Merit as per maintained Meritorious list,1004,Matric
+1201,Haroon Rashid ,Gulzar Ahmad,Bajaur,Out of Merit as per maintained Meritorious list,1003,Matric
+1202,Abubakar Sidique,Aziz Ullah,Bajaur,Out of Merit as per maintained Meritorious list,1003,Matric
+1203,Abid Ali,Naseer Ullah,Mohmand,Out of Merit as per maintained Meritorious list,1002,Matric
+1204,Roman Khan,Abdul Hakim,Bajaur,Out of Merit as per maintained Meritorious list,897,Matric
+1205,Hansa Bibi,Sher Afzal Khan,Bajaur,Out of Merit as per maintained Meritorious list,843,Matric
+1206,Irshad Khan,Tajbar Khan,Bajaur,Out of Merit as per maintained Meritorious list,872,Matric
+1207,Sana Bibi,Gul Habib Jan,Bajaur,Out of Merit as per maintained Meritorious list,894,Matric
+1208,Asma Aman,Aman ullah khan ,Bajaur,Out of Merit as per maintained Meritorious list,858,Matric
+1209,Aleena Rashid,Muhammad Rashid,Bajaur,Out of Merit as per maintained Meritorious list,853,Matric
+1210,Marwa Gul,Gul Zada,Bajaur,Out of Merit as per maintained Meritorious list,822,Matric
+1211,Sadiqa Bibi,Qabil Said,Bajaur,Out of Merit as per maintained Meritorious list,812,Matric
+1212,Waheed Ullah,Shahab Uddin,Bajaur,Out of Merit as per maintained Meritorious list,779,Matric
+1213,Ayesha Bibi,Abdul Hameed,Bajaur,Out of Merit as per maintained Meritorious list,756,Matric
+1214,Sajid Khan,Ghulam Noor Khan,Bajaur,Out of Merit as per maintained Meritorious list,749,Matric
+1215,Abdur Rahman,Abdul Mastan,Bajaur,Out of Merit as per maintained Meritorious list,725,Matric
+1216,Asma Begum,Rahmat Gul,Bajaur,Out of Merit as per maintained Meritorious list,734,Matric
+1217,Husna Bibi ,Abdul Wali Khan,Bajaur,Out of Merit as per maintained Meritorious list,837,Matric
+1218,Hazrat Younas,Suleman Khan,Bajaur,Out of Merit as per maintained Meritorious list,741,Matric
+1219,Tahira Rahim,Muhammad Rahim ,Bajaur,Out of Merit as per maintained Meritorious list,884,Matric
+1220,Hafsa Bibi,Niaz Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,755,Matric
+1221,Shafi Ullah,Rahman Said,Bajaur,Out of Merit as per maintained Meritorious list,755,Matric
+1222,Saima Rahman,Rahmani Gul,Bajaur,Out of Merit as per maintained Meritorious list,997,Matric
+1223,Usman Zia,Zia ul Haq,Bajaur,Out of Merit as per maintained Meritorious list,993,Matric
+1224,Sumaira Khan,Muhammad Ayaz,Bajaur,Out of Merit as per maintained Meritorious list,993,Matric
+1225,Murad Ali,Fazal Qadar,Bajaur,Out of Merit as per maintained Meritorious list,992,Matric
+1226,Nijat Ullah,Sami Ullah,Bajaur,Out of Merit as per maintained Meritorious list,991,Matric
+1227,Shahid Ullah,Abdul Qayum,Bajaur,Out of Merit as per maintained Meritorious list,991,Matric
+1228,Muhammad Sajjad,Muhammad Ishaq,Bajaur,Out of Merit as per maintained Meritorious list,989,Matric
+1229,Shafi Ullah,Said Hassan,Bajaur,Out of Merit as per maintained Meritorious list,987,Matric
+1230,Miftah Uddin,Sikandar,Bajaur,Out of Merit as per maintained Meritorious list,986,Matric
+1231,Asia Bibi,Khaista Bibi,Bajaur,Out of Merit as per maintained Meritorious list,986,Matric
+1232,Nazia Shah,Shah Wazir Khan,Bajaur,Out of Merit as per maintained Meritorious list,984,Matric
+1233,Akmal Khan,Muhammad Ghufran,Bajaur,Out of Merit as per maintained Meritorious list,978,Matric
+1234,Bilal Khan,Sher Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,978,Matric
+1235,Muhammad Zakria ,Muhammad Ibrar,Bajaur,Out of Merit as per maintained Meritorious list,977,Matric
+1236,Salah Uddin,Ghafoor,Bajaur,Out of Merit as per maintained Meritorious list,977,Matric
+1237,Faiza Iqbal,Muhammad Iqbal,Bajaur,Out of Merit as per maintained Meritorious list,973,Matric
+1238,Tariq Jameel,Muhammad Zada,Bajaur,Out of Merit as per maintained Meritorious list,969,Matric
+1239,Nisar Uddin,Zia ur Rehman,Bajaur,Out of Merit as per maintained Meritorious list,968,Matric
+1240,Nimra Bibi,Mir Wali Khan,Bajaur,Out of Merit as per maintained Meritorious list,964,Matric
+1241,Huma Bibi,Yar Muhammad Said,Bajaur,Out of Merit as per maintained Meritorious list,962,Matric
+1242,Fozia Asleem ,Asleem Khan,Bajaur,Out of Merit as per maintained Meritorious list,962,Matric
+1243,Talha Yousaf,Hazrat Yousaf,Bajaur,Out of Merit as per maintained Meritorious list,961,Matric
+1244,Faisal Rahman,Sher Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,960,Matric
+1245,Tawheed Zia,Zia ul Haq,Bajaur,Out of Merit as per maintained Meritorious list,954,Matric
+1246,Sheema Bibi,Muhammad Tayyab,Bajaur,Out of Merit as per maintained Meritorious list,950,Matric
+1247,Sajjad Ahmad,Riaz,Bajaur,Out of Merit as per maintained Meritorious list,949,Matric
+1248,Irshad Ahmad,Bacha Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,948,Matric
+1249,Salman Khan,Abdur Rauf Khan,Bajaur,Out of Merit as per maintained Meritorious list,947,Matric
+1250,Yasar Khan,Abdul Ghani,Bajaur,Out of Merit as per maintained Meritorious list,944,Matric
+1251,Zahid Khan,Subhan Khan,Bajaur,Out of Merit as per maintained Meritorious list,944,Matric
+1252,Sundas Shah,Khan Shah,Bajaur,Out of Merit as per maintained Meritorious list,942,Matric
+1253,Uzma Mughal,Mughal Khan,Bajaur,Out of Merit as per maintained Meritorious list,940,Matric
+1254,Kainat Bibi,Niaz Wali Khan,Bajaur,Out of Merit as per maintained Meritorious list,938,Matric
+1255,Hikmat Ullah,Sher Gul,Khyber,Out of Merit as per maintained Meritorious list,935,Matric
+1256,Saeeda Begum,Fazal Wadood,Bajaur,Out of Merit as per maintained Meritorious list,935,Matric
+1257,Masih Ullah,Umar Badshah,Bajaur,Out of Merit as per maintained Meritorious list,931,Matric
+1258,Salah Uddin,Javed Khan,Bajaur,Out of Merit as per maintained Meritorious list,927,Matric
+1259,Nabia Ali,Ali Bahadar,Bajaur,Out of Merit as per maintained Meritorious list,927,Matric
+1260,Bushra Bibi,Wali Khan,Bajaur,Out of Merit as per maintained Meritorious list,925,Matric
+1261,Taskeen Jamil,Jamil Khan,Bajaur,Out of Merit as per maintained Meritorious list,921,Matric
+1262,Waqas Khan,Wazir Khan,Bajaur,Out of Merit as per maintained Meritorious list,917,Matric
+1263,Sajjad Ali ,Bakht Zada,Bajaur,Out of Merit as per maintained Meritorious list,917,Matric
+1264,Ziba Habib,Noor Habib Jan,Bajaur,Out of Merit as per maintained Meritorious list,916,Matric
+1265,Habib Ullah,Badshah Wazir,Bajaur,Out of Merit as per maintained Meritorious list,914,Matric
+1266,Abdullah,Muhammad Ullah,Bajaur,Out of Merit as per maintained Meritorious list,913,Matric
+1267,Jalal Uddin,Ihsan Ullah,Bajaur,Out of Merit as per maintained Meritorious list,910,Matric
+1268,Kalsoom Said Hakeem,Said Hakeem,Bajaur,Out of Merit as per maintained Meritorious list,908,Matric
+1269,Sheema Bibi,Masta Khan,Bajaur,Out of Merit as per maintained Meritorious list,886,Matric
+1270,Kainat Bibi,Sardar Hussain,Bajaur,Out of Merit as per maintained Meritorious list,754,Matric
+1271,Laiba Khan,Sar Zamin Khan,Bajaur,Out of Merit as per maintained Meritorious list,841,Matric
+1272,Imdad Ul Haq,Jehan Zeb,Bajaur,Out of Merit as per maintained Meritorious list,904,Matric
+1273,Ashraf Ullah,Hidayat Ullah,N. Waziristan,Out of Merit as per maintained Meritorious list,815,Matric
+1274,Naheen Bibi,Fazal Rahim,Bajaur,Out of Merit as per maintained Meritorious list,875,Matric
+1275,Farida Bibi,Noor Haleem Jan,Bajaur,Out of Merit as per maintained Meritorious list,968,Matric
+1276,Uzma Bibi,Muhammad Zamin,Bajaur,Out of Merit as per maintained Meritorious list,873,Matric
+1277,Sapna Bibi,Khan Zaman,Bajaur,Out of Merit as per maintained Meritorious list,881,Matric
+1278,Zahoor Ahmad,Naimat Ullah,N. Waziristan,Out of Merit as per maintained Meritorious list,890,Matric
+1279,Rusheed Ullah,Badshah Zada,Bajaur,Out of Merit as per maintained Meritorious list,992,Matric
+1280,Sana Bibi,Muhammad Jan,Bajaur,Out of Merit as per maintained Meritorious list,759,Matric
+1281,Khansa Khalil Ahmad,Khalil Ahmad,N Waziristan,Out of Merit as per maintained Meritorious list,867,Matric
+1282,Alia Noor Aslam,Noor Aslam,Tank,Out of Merit as per maintained Meritorious list,949,Matric
+1283,Abdus Samad,Wazir Rahman,Bajaur,Out of Merit as per maintained Meritorious list,951,Matric
+1284,Aziz Ullah,Shah Wazir Khan,Bajaur,Out of Merit as per maintained Meritorious list,806,Matric
+1285,Tanzeela Gula Khan,Gula Khan,S. Waziristan,Out of Merit as per maintained Meritorious list,975,Matric
+1286,Humaira Gula Khan,Gula Khan,S. Waziristan,Out of Merit as per maintained Meritorious list,954,Matric
 1287,Shahab Khan,Ashaq,Bajaur,Private Student,907,Matric
-1288,Hanif Ullah,Hussain Jan,Bajaur,Out of Merit,952,Matric
-1289,Hamid Ullah,Hayat Shah,Bajaur,Out of Merit,914,Matric
-1290,Ihtiram Khan,Sher Azam Khan,Bajaur,Out of Merit,813,Matric
-1291,Abbas Khan,Gul Zada,Bajaur,Out of Merit,889,Matric
-1292,Laiba Gulab,Hamish Gulab,Bajaur,Out of Merit,936,Matric
-1293,Aziz ul Hakeem,Bakht Munir,Bajaur,Out of Merit,963,Matric
-1294,Jalal Khan,Muhammad Naeem,Bajaur,Out of Merit,778,Matric
-1295,Hussain Ahmad ,Sultan Muhammad,Bajaur,Out of Merit,963,Matric
-1296,Younas Khan,Sardar Khan,Bajaur,Out of Merit,978,Matric
-1297,Abubakar Khan,Abdar Khan,Bajaur,Out of Merit,964,Matric
-1298,Jamal Uddin,Muhammad Naeem,Bajaur,Out of Merit,750,Matric
-1299,Tasbih Ullah,Abdul Wali Khan,Bajaur,Out of Merit,892,Matric
-1300,Sajid Ullah,Yar Gul,Bajaur,Out of Merit,812,Matric
-1301,Shahid Ullah,Zakir Ullah,Bajaur,Out of Merit,855,Matric
-1302,Sabira Bibi,Masood khan ,Bajaur,Out of Merit,871,Matric
-1303,Shahab Ullah,Bacha Hussain,Bajaur,Out of Merit,857,Matric
-1304,Hina Munir,Akhtar Munir,Bajaur,Out of Merit,868,Matric
-1305,Asad Ullah,Muhammad Sabir,Bajaur,Out of Merit,959,Matric
-1306,Sana Bibi,Liaqat Ali,Bajaur,Out of Merit,855,Matric
-1307,Jaweria Khan,Bahadar Khan,Bajaur,Out of Merit,972,Matric
-1308,Sana Ullah,Mashang,Bajaur,Out of Merit,936,Matric
-1309,Rizwan Ullah,Yar Muhammad ,Bajaur,Out of Merit,857,Matric
-1310,Atta ur Rehman,Abdullah,Bajaur,Out of Merit,937,Matric
-1311,Husna Khaista Khan,Khaista Khan,Bajaur,Out of Merit,851,Matric
-1312,Marzia,Ghulam Muhammad,Bajaur,Out of Merit,965,Matric
-1313,Muhammad Ishaq,Shin Gul,Bajaur,Out of Merit,988,Matric
-1314,Najeeb Ullah,Darwesh Khan,Bajaur,Out of Merit,952,Matric
-1315,Shahab Uddin,Hayat Khan,Bajaur,Out of Merit,930,Matric
-1316,Sami Ullah,Taj Khan,Bajaur,Out of Merit,947,Matric
-1317,Raheel Salar,Ahmad Jan,Bajaur,Father CNIC not attacheded,977,HSSC
-1318,Shabana Bibi,Fazal Haleem Jan,Bajaur,Out of Merit,747,Matric
+1288,Hanif Ullah,Hussain Jan,Bajaur,Out of Merit as per maintained Meritorious list,952,Matric
+1289,Hamid Ullah,Hayat Shah,Bajaur,Out of Merit as per maintained Meritorious list,914,Matric
+1290,Ihtiram Khan,Sher Azam Khan,Bajaur,Out of Merit as per maintained Meritorious list,813,Matric
+1291,Abbas Khan,Gul Zada,Bajaur,Out of Merit as per maintained Meritorious list,889,Matric
+1292,Laiba Gulab,Hamish Gulab,Bajaur,Out of Merit as per maintained Meritorious list,936,Matric
+1293,Aziz ul Hakeem,Bakht Munir,Bajaur,Out of Merit as per maintained Meritorious list,963,Matric
+1294,Jalal Khan,Muhammad Naeem,Bajaur,Out of Merit as per maintained Meritorious list,778,Matric
+1295,Hussain Ahmad ,Sultan Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,963,Matric
+1296,Younas Khan,Sardar Khan,Bajaur,Out of Merit as per maintained Meritorious list,978,Matric
+1297,Abubakar Khan,Abdar Khan,Bajaur,Out of Merit as per maintained Meritorious list,964,Matric
+1298,Jamal Uddin,Muhammad Naeem,Bajaur,Out of Merit as per maintained Meritorious list,750,Matric
+1299,Tasbih Ullah,Abdul Wali Khan,Bajaur,Out of Merit as per maintained Meritorious list,892,Matric
+1300,Sajid Ullah,Yar Gul,Bajaur,Out of Merit as per maintained Meritorious list,812,Matric
+1301,Shahid Ullah,Zakir Ullah,Bajaur,Out of Merit as per maintained Meritorious list,855,Matric
+1302,Sabira Bibi,Masood khan ,Bajaur,Out of Merit as per maintained Meritorious list,871,Matric
+1303,Shahab Ullah,Bacha Hussain,Bajaur,Out of Merit as per maintained Meritorious list,857,Matric
+1304,Hina Munir,Akhtar Munir,Bajaur,Out of Merit as per maintained Meritorious list,868,Matric
+1305,Asad Ullah,Muhammad Sabir,Bajaur,Out of Merit as per maintained Meritorious list,959,Matric
+1306,Sana Bibi,Liaqat Ali,Bajaur,Out of Merit as per maintained Meritorious list,855,Matric
+1307,Jaweria Khan,Bahadar Khan,Bajaur,Out of Merit as per maintained Meritorious list,972,Matric
+1308,Sana Ullah,Mashang,Bajaur,Out of Merit as per maintained Meritorious list,936,Matric
+1309,Rizwan Ullah,Yar Muhammad ,Bajaur,Out of Merit as per maintained Meritorious list,857,Matric
+1310,Atta ur Rehman,Abdullah,Bajaur,Out of Merit as per maintained Meritorious list,937,Matric
+1311,Husna Khaista Khan,Khaista Khan,Bajaur,Out of Merit as per maintained Meritorious list,851,Matric
+1312,Marzia,Ghulam Muhammad,Bajaur,Out of Merit as per maintained Meritorious list,965,Matric
+1313,Muhammad Ishaq,Shin Gul,Bajaur,Out of Merit as per maintained Meritorious list,988,Matric
+1314,Najeeb Ullah,Darwesh Khan,Bajaur,Out of Merit as per maintained Meritorious list,952,Matric
+1315,Shahab Uddin,Hayat Khan,Bajaur,Out of Merit as per maintained Meritorious list,930,Matric
+1316,Sami Ullah,Taj Khan,Bajaur,Out of Merit as per maintained Meritorious list,947,Matric
+1317,Raheel Salar,Ahmad Jan,Bajaur,Father CNIC not attached,977,HSSC
+1318,Shabana Bibi,Fazal Haleem Jan,Bajaur,Out of Merit as per maintained Meritorious list,747,Matric
 1319,Nadia Khan,Khan Pacha,Bajaur,Domicile Deficiency,905,Matric
-1320,Wajid Ullah,Wazir Rahman,Bajaur,Out of Merit,918,Matric
-1321,Sohail Khan,Ayaz Khan,Bajaur,Out of Merit,1000,Matric
-1322,Saeed Ullah,Naimat Ullah Jan,Bajaur,Out of Merit,978,Matric
-1323,Muhammad Yasin,Muhammad Ibrahim,Bajaur,Out of Merit,952,Matric
-1324,Muhammad Ramzan,Shaim Ullah Khan,S. Waziristan,Out of Merit,820,Matric
-
-
-
-
-
-
-
-
+1320,Wajid Ullah,Wazir Rahman,Bajaur,Out of Merit as per maintained Meritorious list,918,Matric
+1321,Sohail Khan,Ayaz Khan,Bajaur,Out of Merit as per maintained Meritorious list,1000,Matric
+1322,Saeed Ullah,Naimat Ullah Jan,Bajaur,Out of Merit as per maintained Meritorious list,978,Matric
+1323,Muhammad Yasin,Muhammad Ibrahim,Bajaur,Out of Merit as per maintained Meritorious list,952,Matric
+1324,Muhammad Ramzan,Shaim Ullah Khan,S Waziristan,Out of Merit as per maintained Meritorious list,820,Matric
